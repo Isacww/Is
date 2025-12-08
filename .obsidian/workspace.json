@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/ReadingJournalTemplate.md",
+                "file": "Journal/Untitled 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ReadingJournalTemplate"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/ReadingJournalTemplate.md",
+                "file": "Journal/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ReadingJournalTemplate"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/ReadingJournalTemplate.md",
+                "file": "Journal/Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ReadingJournalTemplate"
+              "title": "Outgoing links from Untitled 1"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/ReadingJournalTemplate.md",
+                "file": "Journal/Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ReadingJournalTemplate"
+              "title": "Outline of Untitled 1"
             }
           }
         ]
@@ -187,7 +187,8 @@
   },
   "active": "8fa0661206663d57",
   "lastOpenFiles": [
-    "Journal/ReadingJournalTemplate.md",
+    "Templates/ReadingJournalTemplate.md",
+    "Journal/Untitled 1.md",
     "Journal/Untitled.md",
     "Templates/Untitled.md",
     "Templates/Untitled 1.md",
