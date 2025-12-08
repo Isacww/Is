@@ -1,28 +1,32 @@
 <%*
-const book = await tp.user.prompt("Book title?");
+let book = await tp.system.prompt("Book title?");
+if (!book) book = "Untitled";
+
 const date = tp.date.now("YYYY-MM-DD");
 
+// rename file automatically
 await tp.file.rename(`${book} - ${date}`);
 %>
 ---
-date: <% tp.date.now("YYYY-MM-DD") %>
-book: "<%* book %>"
+date: <% date %>
+book: "<% book %>"
 tags:
 ---
+
 ## Key Phrase/Quote
-<!-- Paste quote here -->
+<!-- paste quote -->
 
 ## My Connection
-<!-- Your insights (Tesla 369, da Vinci geometry, etc.) -->
+<!-- your insights -->
 
 ## Synchronicities
-<!-- List unexpected events or connections -->
+<!-- events that lined up -->
 
 ## Cross-References
-<!-- Add useful related notes here -->
+<!-- add related notes -->
 
 ## Next Actions
-<!-- Books, ideas, or things to pursue -->
+<!-- ideas sparked -->
 
-File creation date: 2025-12-08 14:58
-Last Modified: 2025-12-08 15:37
+File creation date: <% tp.file.creation_date() %>  
+Last Modified: <% tp.file.last_modified_date() %>

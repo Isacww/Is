@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/ReadingJournalTemplate.md",
+                "file": "Journal/new - 2025-12-08.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ReadingJournalTemplate"
+              "title": "new - 2025-12-08"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/ReadingJournalTemplate.md",
+                "file": "Journal/new - 2025-12-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ReadingJournalTemplate"
+              "title": "Backlinks for new - 2025-12-08"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/ReadingJournalTemplate.md",
+                "file": "Journal/new - 2025-12-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ReadingJournalTemplate"
+              "title": "Outgoing links from new - 2025-12-08"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/ReadingJournalTemplate.md",
+                "file": "Journal/new - 2025-12-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ReadingJournalTemplate"
+              "title": "Outline of new - 2025-12-08"
             }
           }
         ]
@@ -187,9 +187,10 @@
   },
   "active": "9a8421225f3b257d",
   "lastOpenFiles": [
-    "Journal/Untitled.md",
     "Templates/ReadingJournalTemplate.md",
-    "Journal/Untitled 1.md",
+    "Journal/new - 2025-12-08.md",
+    "Journal/new - 2025-12-08.md",
+    "Journal/hej - 2025-12-08.md",
     "Templates/Untitled.md",
     "Templates/Untitled 1.md",
     "test.file.md",
