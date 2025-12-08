@@ -15,12 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Journal",
-      "template": "Templates/ReadingJournalTemplate.md"
+      "folder": "Atlas/Books",
+      "template": "Templates/Book Template.md"
     },
     {
-      "folder": "",
-      "template": ""
+      "folder": "Atlas/Videos",
+      "template": "Templates/Video Template.md"
+    },
+    {
+      "folder": "Atlas/Articles",
+      "template": "Templates/Article Template.md"
     }
   ],
   "enable_file_templates": false,
