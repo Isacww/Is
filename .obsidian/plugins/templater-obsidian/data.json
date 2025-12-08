@@ -32,7 +32,7 @@
     ""
   ],
   "startup_templates": [
-    "Templates/ReadingJournalTemplate.md.md"
+    "Journal/ReadingJournalTemplate.md"
   ],
   "intellisense_render": 1
 }
