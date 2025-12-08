@@ -1,24 +1,20 @@
 <%*
-let book = await tp.system.prompt("Book title?");
-if (!book) book = "Untitled";
+let area = await tp.system.prompt("What is the question about?");
+if (!area) area = "Untitled";
 
 const date = tp.date.now("YYYY-MM-DD");
 
 // rename file automatically
-await tp.file.rename(`${book} - ${date}`);
+await tp.file.rename(`${area} - ${date}`);
 %>---
 date: <% date %>
-book: "<% book %>"
-tags: book
+Area: "<% area %>"
+tags: question
 ---
-
-## Key Phrase/Quote
-<!-- paste quote -->
-
-## My Connection
+## My Question
 <!-- your insights -->
 
-## Synchronicities
+## Reason why it appeared:
 <!-- events that lined up -->
 
 ## Cross-References

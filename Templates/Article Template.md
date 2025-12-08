@@ -9,7 +9,7 @@ await tp.file.rename(`${book} - ${date}`);
 %>---
 date: <% date %>
 book: "<% book %>"
-tags:
+tags: article
 ---
 
 ## Key Phrase/Quote

@@ -25,6 +25,26 @@
     {
       "folder": "Atlas/Articles",
       "template": "Templates/Article Template.md"
+    },
+    {
+      "folder": "Journal/Quotes",
+      "template": "Templates/Quote Template.md"
+    },
+    {
+      "folder": "Journal/Thoughts",
+      "template": "Templates/Thoughts Template.md"
+    },
+    {
+      "folder": "Journal/Ideas",
+      "template": "Templates/Idea Template.md"
+    },
+    {
+      "folder": "Journal/Questions",
+      "template": "Templates/Question Template.md"
+    },
+    {
+      "folder": "",
+      "template": ""
     }
   ],
   "enable_file_templates": false,

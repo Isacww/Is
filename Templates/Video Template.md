@@ -9,7 +9,7 @@ await tp.file.rename(`${video} - ${date}`);
 %>---
 date: <% date %>
 video: "<% video %>"
-tags:
+tags: video
 ---
 
 ## Key Phrase/Quote

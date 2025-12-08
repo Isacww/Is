@@ -1,5 +1,5 @@
 <%*
-let area = await tp.system.prompt("What is the thought about?");
+let area = await tp.system.prompt("What is the idea about?");
 if (!area) area = "Untitled";
 
 const date = tp.date.now("YYYY-MM-DD");
@@ -8,18 +8,13 @@ const date = tp.date.now("YYYY-MM-DD");
 await tp.file.rename(`${area} - ${date}`);
 %>---
 date: <% date %>
-Thought: "<% area %>"
-tags: thought
+Idea: "<% area %>"
+tags: idea
 ---
 ## My Connection
 <!-- your insights -->
-
-## Synchronicities
-<!-- events that lined up -->
-
-## Cross-References
-<!-- add related notes -->
-
+## Description of the idea:
+<!-- idea here -->
 ## Next Actions
 <!-- ideas sparked -->
 

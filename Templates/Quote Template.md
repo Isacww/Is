@@ -1,20 +1,16 @@
 <%*
-let book = await tp.system.prompt("Book title?");
-if (!book) book = "Untitled";
+let area = await tp.system.prompt("What is the quote about?");
+if (!area) area = "Untitled";
 
 const date = tp.date.now("YYYY-MM-DD");
 
 // rename file automatically
-await tp.file.rename(`${book} - ${date}`);
+await tp.file.rename(`${area} - ${date}`);
 %>---
 date: <% date %>
-book: "<% book %>"
-tags: book
+Thought: "<% area %>"
+tags: quote
 ---
-
-## Key Phrase/Quote
-<!-- paste quote -->
-
 ## My Connection
 <!-- your insights -->
 
