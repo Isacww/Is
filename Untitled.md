@@ -1,7 +1,7 @@
 ---
 date: 2025-12-08
-book: 
-tags: 
+book:
+tags:
 ---
 # Reading Journal: {{book}}
 
