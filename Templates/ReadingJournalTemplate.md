@@ -6,8 +6,7 @@ const date = tp.date.now("YYYY-MM-DD");
 
 // rename file automatically
 await tp.file.rename(`${book} - ${date}`);
-%>
----
+%>---
 date: <% date %>
 book: "<% book %>"
 tags:
