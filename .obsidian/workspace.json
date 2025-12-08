@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Video Template.md",
+                "file": "Templates/Article Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Template"
+              "title": "Article Template"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Video Template.md",
+                "file": "Templates/Article Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Video Template"
+              "title": "Backlinks for Article Template"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Video Template.md",
+                "file": "Templates/Article Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Video Template"
+              "title": "Outgoing links from Article Template"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Video Template.md",
+                "file": "Templates/Article Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Video Template"
+              "title": "Outline of Article Template"
             }
           }
         ]
@@ -187,10 +187,10 @@
   },
   "active": "e1eb9a813fb0c1a9",
   "lastOpenFiles": [
+    "Templates/Video Template.md",
     "Templates/Question Template.md",
     "Templates/Article Template.md",
     "Templates/Book Template.md",
-    "Templates/Video Template.md",
     "Templates/Thoughts Template.md",
     "Templates/Quote Template.md",
     "Templates/Idea Template.md",
