@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Note.md",
+                "file": "Templates/Note.md",
                 "mode": "preview",
                 "source": true
               },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note.md",
+                "file": "Templates/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note.md",
+                "file": "Templates/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -167,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Note.md",
+                "file": "Templates/Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -191,12 +191,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d45cab539377dd7",
+  "active": "621a0f93374ab294",
   "lastOpenFiles": [
-    "Note.md",
+    "Atlas",
+    "Templates/Note.md",
     "Templates",
     "Welcome.md"
   ]
