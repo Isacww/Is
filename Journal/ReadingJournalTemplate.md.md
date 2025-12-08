@@ -6,7 +6,7 @@ tags: <% tp.user.prompt("Enter tags (comma-separated):") %>
 # Reading Journal: <%- tp.user.prompt("Enter the book title:") %>
 
 ## Key Phrase/Quote
-[Paste quote here]
+[]
 
 ## My Connection
 [Your insight, e.g., links to Tesla's 369 or da Vinci's geometry]
@@ -21,5 +21,6 @@ tags: <% tp.user.prompt("Enter tags (comma-separated):") %>
 ## Next Actions
 - [Books/ideas this sparks]
 
-File creation date: <% tp.file.creation_date() %>
-Last Modified: <% tp.file.last_modified_date() %>
+File creation date:  <% tp.file.creation_date() %>
+Last Modified:  <% tp.file.last_modified_date() %>
+File folder:  <% tp.file.folder %>

@@ -23,26 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/ReadingJournalTemplate.file.md",
+                "file": "Journal/ReadingJournalTemplate.md.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "ReadingJournalTemplate.file"
-            }
-          },
-          {
-            "id": "cffabca9e1f2d0e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.file.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "test.file"
+              "title": "ReadingJournalTemplate.md"
             }
           }
         ],
@@ -119,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/ReadingJournalTemplate.file.md",
+                "file": "Journal/ReadingJournalTemplate.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ReadingJournalTemplate.file"
+              "title": "Backlinks for ReadingJournalTemplate.md"
             }
           },
           {
@@ -138,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/ReadingJournalTemplate.file.md",
+                "file": "Journal/ReadingJournalTemplate.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ReadingJournalTemplate.file"
+              "title": "Outgoing links from ReadingJournalTemplate.md"
             }
           },
           {
@@ -181,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/ReadingJournalTemplate.file.md",
+                "file": "Journal/ReadingJournalTemplate.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ReadingJournalTemplate.file"
+              "title": "Outline of ReadingJournalTemplate.md"
             }
           }
         ]
@@ -210,10 +196,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a10eadc0f17e3482",
+  "active": "621a0f93374ab294",
   "lastOpenFiles": [
+    "Templates/Untitled.md",
+    "Journal/ReadingJournalTemplate.md.md",
+    "Templates/Untitled 1.md",
     "test.file.md",
-    "Templates/ReadingJournalTemplate.file.md",
     "ReadingJournalTemplate.md.md",
     "Untitled.md",
     "Templates/Note.md",
