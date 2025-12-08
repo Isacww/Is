@@ -1,11 +1,14 @@
+<%*
+const book = await tp.user.prompt("Book title?");
+const date = tp.date.now("YYYY-MM-DD");
+
+await tp.file.rename(`${book} - ${date}`);
+%>
 ---
-date: 2025-12-08
-book:
+date: <% tp.date.now("YYYY-MM-DD") %>
+book: "<%* book %>"
 tags:
 ---
-
-# Reading Journal
-
 ## Key Phrase/Quote
 <!-- Paste quote here -->
 
