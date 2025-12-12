@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Article Template.md",
+                "file": "Journal/Thoughts/convergence of concepts - 2025-12-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Article Template"
+              "title": "convergence of concepts - 2025-12-12"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Article Template.md",
+                "file": "Journal/Thoughts/convergence of concepts - 2025-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Article Template"
+              "title": "Backlinks for convergence of concepts - 2025-12-12"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Article Template.md",
+                "file": "Journal/Thoughts/convergence of concepts - 2025-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Article Template"
+              "title": "Outgoing links from convergence of concepts - 2025-12-12"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Article Template.md",
+                "file": "Journal/Thoughts/convergence of concepts - 2025-12-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Article Template"
+              "title": "Outline of convergence of concepts - 2025-12-12"
             }
           }
         ]
@@ -187,9 +187,10 @@
   },
   "active": "e1eb9a813fb0c1a9",
   "lastOpenFiles": [
+    "Templates/Article Template.md",
+    "Journal/Thoughts/convergence of concepts - 2025-12-12.md",
     "Templates/Video Template.md",
     "Templates/Question Template.md",
-    "Templates/Article Template.md",
     "Templates/Book Template.md",
     "Templates/Thoughts Template.md",
     "Templates/Quote Template.md",
