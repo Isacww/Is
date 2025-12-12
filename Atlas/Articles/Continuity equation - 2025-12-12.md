@@ -4,6 +4,7 @@ book: Continuity equation
 tags:
   - article
   - continuum
+  - quantum
 ---
 
 ## Key Phrase/Quote
@@ -43,7 +44,7 @@ Local differential form encodes global conservation.
 I feel like this is a very important feature for [[light]] and [[matter]]. And [[manifistation]] 
 
 ## Synchronicities
-<!-- events that lined up -->
+Thought of this when reading about talbots holographic worldview and the slit-quantuum experiment. also when reading it in [[Quantum Ontology]] by [[Peter J. Lewis]] 
 
 ## Cross-References
 <!-- add related notes -->
