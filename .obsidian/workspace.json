@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Thoughts/Pertha - 2025-12-12.md",
+                "file": "Atlas/Articles/Lorentz Force - 2025-12-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pertha - 2025-12-12"
+              "title": "Lorentz Force - 2025-12-12"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journal/Thoughts/Pertha - 2025-12-12.md",
+                "file": "Atlas/Articles/Lorentz Force - 2025-12-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pertha - 2025-12-12"
+              "title": "Backlinks for Lorentz Force - 2025-12-12"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journal/Thoughts/Pertha - 2025-12-12.md",
+                "file": "Atlas/Articles/Lorentz Force - 2025-12-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pertha - 2025-12-12"
+              "title": "Outgoing links from Lorentz Force - 2025-12-12"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Thoughts/Pertha - 2025-12-12.md",
+                "file": "Atlas/Articles/Lorentz Force - 2025-12-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pertha - 2025-12-12"
+              "title": "Outline of Lorentz Force - 2025-12-12"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "e1eb9a813fb0c1a9",
   "lastOpenFiles": [
-    "Journal/Thoughts/convergence of concepts - 2025-12-12.md",
     "Journal/Thoughts/Pertha - 2025-12-12.md",
+    "Atlas/Articles/Lorentz Force - 2025-12-12.md",
+    "Journal/Thoughts/convergence of concepts - 2025-12-12.md",
     "Templates/Article Template.md",
     "Templates/Video Template.md",
     "Templates/Question Template.md",
