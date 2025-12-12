@@ -19,10 +19,10 @@ Read the book, found some interesting views and introduction to [[electron spin]
 Saw it in a [[youtube]] [[video]] and bought it for myselfg to engage in the [[quantum]] world for the first "conscious time".
  
 ## Cross-References
-It touched upon the 
+It touched upon the dimensional [[enfoldment]] perspective problem. Where something in a lower [[dimension]] cannot easily be viewing something in a higher dimension.
 
 ## Next Actions
-<!-- ideas sparked -->
+Could potentially look up and see if [[Peter J. Lewis]] has some interesting books, since this one had some good aspect of showcasing and teaching difficult concepts.
 
 File creation date: 2025-12-12 13:09  
 Last Modified: 2025-12-12 13:09
