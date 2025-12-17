@@ -32,7 +32,9 @@ Inability, many elusive phenomenas now seems to make sense in this perspective. 
 Science is not prejudice-free. Why is so many of societies greatest insights and advances met with such [[passionate denial]]? [[Siegel]]'s observation: people are addicted to their beliefs, which is why addict - like behaviour is prominent when someone is trying to change someone else's beliefs and world-view.
 
 ## Pribram's excitement:
-About [[hologram]]s , one of the things that makes holographic possible is [[interference]]. Any wavelike phenomena can create interference pattern, including light - and radio-waves. Hologram are actually already possible. this is a sketch of an three dimensional hologram
+About [[hologram]]s , one of the things that makes holographic possible is [[interference]]. Any wavelike phenomena can create [[interference pattern]], including light - and radio-waves. Hologram are actually already possible. this is a sketch of how an three dimensional hologram is created of an apple through interference, as soon as another laser beam (or in some cases just a bright light source) is shined through the film, a 3-dimensional image appear.
+![[Pasted image 20251217111534.png]]
+
 ## Synchronicities
 <!-- events that lined up -->
 
