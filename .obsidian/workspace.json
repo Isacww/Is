@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Quantum Ontology - 2025-12-12"
             }
-          },
-          {
-            "id": "c7e3a74d911f7af5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Article Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Article Template"
             }
           },
           {
@@ -123,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Templates/Article Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Article Template"
             }
           },
           {
@@ -165,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Article Template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Article Template"
             }
           }
         ]
@@ -193,7 +185,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c7e3a74d911f7af5",
+  "active": "621a0f93374ab294",
   "lastOpenFiles": [
     "Atlas/Books/Quantum Ontology - 2025-12-12.md",
     "Atlas/Articles/Continuity equation - 2025-12-12.md",
