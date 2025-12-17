@@ -5,6 +5,7 @@ tags:
   - thought
   - implosion
   - resonance
+  - sleep
 ---
 ## My Connection
 I was lying here in bed ready to sleep and i thought of something that feel right intuitavely, what about resonant implosion? Is not that what the tesla coil is achieving with electromagnetism? what link could that have to life energy - could this be in resonance through the same way maybe
