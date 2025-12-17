@@ -64,8 +64,9 @@ With all things pointing towards that reality that is "experienced" is in fact j
 An electron cannot solely be defined as a particle, since it also has wave-like qualities. This phenomena of something that somehow embodies both is called "[[quanta]]" and physicists believe that they are the basic stuff from which the entire universe is made. A common way of thinking is that quanta (which is a multiple if a single quantum) only "acts" or transforms into particles when observed. But Bohm thinks differently.
 
 ## A living sea of Electrons
-## Synchronicities
-<!-- events that lined up -->
+At first Bohm also accepted [[Bohr]]'s position, but remained puzzled by the lack of interest Bohr and the rest had towards [[interconnectedness]]. With this, research in [[plasmas]] took place. They are a gas containing a high density of electrons and positive ions (atoms that have a positive charge). Once in the plasma, electrons stopped behaving like individuals and started behaving as if they were part of a larger and interconnected whole. Extending this research he studied electrons in metals. Once again the seemingly haphazard movements of individual electrons managed to produce highly organized 
+# Synchronicities
+I have had the feeling and thoughts about something interesting about interconnectedness and plasmatic behavior in metals for some reason. Before reading about it.
 
 ## Cross-References
 <!-- add related notes -->
