@@ -14,6 +14,8 @@ tags:
 ## Key Phrase/Quote
 [[people are addicted to their beliefs, which is why addict - like behaviour is prominent when someone is trying to change someone else's beliefs and world-view.]]
 
+[["The brain was using Fourier Mathematics - the same mathematics holography employed to convert visual images into the Fourier Language of Wave Forms"]]
+
 
 
 ## My Connection
@@ -48,7 +50,15 @@ Pribram believes that Bekesy's work is compatible with the holopraphic view and 
 ## The mathematical language of the hologram
 [[Fourier]] : Roughly speaking - mathematical way of converting any pattern, no matter how complex, into a language of simple waves, showed how these wave forms could be converted back into the original pattern. 
 [[Fourier transforms]] : images --> wave forms --> image --> ...
-In fact, the special whole in every part of a hologram is one of the byproducts that occurrs when an image or pattern is translated into the fourier language of wave forms. Each braincell in the visual complex is geard to respond to a different pattern, some braincells fire when the eyes see a horizontal line, others fire when they see a vertical line, and so on. These cells are called feature detectors. After tests, only one conclusion could be drawn: "The brain was using [[Fourier Mathematics]] - the same mathematics holography employed to convert visual images into the [[Fourier Language]] of Wave Forms"
+In fact, the special whole in every part of a hologram is one of the byproducts that occurrs when an image or pattern is translated into the fourier language of wave forms. Each braincell in the visual complex is geard to respond to a different pattern, some braincells fire when the eyes see a horizontal line, others fire when they see a vertical line, and so on. These cells are called feature detectors. After tests, only one conclusion could be drawn: "The brain was using [[Fourier Mathematics]] - the same mathematics holography employed to convert visual images into the [[Fourier Language]] of [[Wave Forms]]"
+
+[[Brain = Hologram]] : Pribram is convinced of this.
+
+## The dancer as Wave Form
+Tests show that out sences are frequency-analyzers. [[Nikolai Bernstein]]'s discovery even showed that our physical movements may be encoded in our brains in a [[Language of Fourier Wave Forms]]. With this he could predict the movements of his subjects to an impressive precision. --> Maybe the brain stores information this way?
+
+## Pribram encounters Bohm
+With all things pointing towards that reality that is "experienced" is in fact just a hologram, then what is it a hologram of? Pribram then wondered, was it possible that what the mystics had been sa
 ## Synchronicities
 <!-- events that lined up -->
 

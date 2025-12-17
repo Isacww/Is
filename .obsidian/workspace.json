@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0afc1a2fef765ef5",
+        "id": "9a3fb2bc8baadd2f",
         "type": "tabs",
         "children": [
           {
-            "id": "e1eb9a813fb0c1a9",
+            "id": "850ce328dc029bf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,12 +185,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e1eb9a813fb0c1a9",
+  "active": "850ce328dc029bf4",
   "lastOpenFiles": [
+    "Fourier Language.md",
+    "Atlas/Books/Holographic worldview - Talbot - 2025-12-17.md",
     "attachments/Pasted image 20251217111534.png",
     "attachments",
     "Templates/Article Template.md",
-    "Atlas/Books/Holographic worldview - Talbot - 2025-12-17.md",
     "Atlas/Books/Quantum Ontology - 2025-12-12.md",
     "Atlas/Articles/Continuity equation - 2025-12-12.md",
     "Atlas/Articles/Lorentz Force - 2025-12-12.md",
