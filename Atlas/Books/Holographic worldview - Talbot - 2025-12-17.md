@@ -7,10 +7,14 @@ tags:
   - holographic
   - Talbot
   - metaphysics
+  - interference
+  - quantum
 ---
 
 ## Key Phrase/Quote
-<!-- paste quote -->
+[[people are addicted to their beliefs, which is why addict - like behaviour is prominent when someone is trying to change someone else's beliefs and world-view.]]
+
+
 
 ## My Connection
 I saw a short [[video]] about Talbot shortly describing the view of his and then referring to this book, which peeked my interest.
@@ -25,7 +29,10 @@ Overall simplistic view: [[universe]] is a very complex [[hologram]] - like Leia
 Inability, many elusive phenomenas now seems to make sense in this perspective. Like [[telepathy]], [[precognition]], mystical feelings of [["oneness" with the universe]], and even [[psychokinesis]], or the ability to move objects without touching.
 
 ## Why not researched more?
-Science is not prejudice-free. Why is so many of societies greatest insights and advances met with such [[passionate denial]]? S
+Science is not prejudice-free. Why is so many of societies greatest insights and advances met with such [[passionate denial]]? [[Siegel]]'s observation: people are addicted to their beliefs, which is why addict - like behaviour is prominent when someone is trying to change someone else's beliefs and world-view.
+
+## Pribram's excitement:
+About [[hologram]]s , one of the things that makes holographic possible is [[interference]]. Any wavelike phenomena can create interference pattern, including light - and radio-waves. Hologram are actually already possible. this is a sketch of an three dimensional hologram
 ## Synchronicities
 <!-- events that lined up -->
 
