@@ -16,7 +16,7 @@ tags:
 
 [["The brain was using Fourier Mathematics - the same mathematics holography employed to convert visual images into the Fourier Language of Wave Forms"]]
 
-
+"reality was maya"
 
 ## My Connection
 I saw a short [[video]] about Talbot shortly describing the view of his and then referring to this book, which peeked my interest.
@@ -58,7 +58,12 @@ In fact, the special whole in every part of a hologram is one of the byproducts 
 Tests show that out sences are frequency-analyzers. [[Nikolai Bernstein]]'s discovery even showed that our physical movements may be encoded in our brains in a [[Language of Fourier Wave Forms]]. With this he could predict the movements of his subjects to an impressive precision. --> Maybe the brain stores information this way?
 
 ## Pribram encounters Bohm
-With all things pointing towards that reality that is "experienced" is in fact just a hologram, then what is it a hologram of? Pribram then wondered, was it possible that what the mystics had been sa
+With all things pointing towards that reality that is "experienced" is in fact just a hologram, then what is it a hologram of? Pribram then wondered, was it possible that what the mystics had been saying for centuries was true, "reality was [[maya]]", an illusion, and what was out there was really a vast, [[resonating symphony]] of wave forms, a "[[frequency domain]]", that was transformed into the world as we know it only after it entered our senses? This was where Bohn entered his picture.
+
+## Cosmos as a hologram
+An electron cannot solely be defined as a particle, since it also has wave-like qualities. This phenomena of something that somehow embodies both is called "[[quanta]]" and physicists believe that they are the basic stuff from which the entire universe is made. A common way of thinking is that quanta (which is a multiple if a single quantum) only "acts" or transforms into particles when observed. But Bohm thinks differently.
+
+## A living sea of Electrons
 ## Synchronicities
 <!-- events that lined up -->
 
