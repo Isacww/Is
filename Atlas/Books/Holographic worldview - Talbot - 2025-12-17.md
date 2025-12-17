@@ -57,6 +57,7 @@ In fact, the special whole in every part of a hologram is one of the byproducts 
 
 ## The dancer as Wave Form
 Tests show that out sences are frequency-analyzers. [[Nikolai Bernstein]]'s discovery even showed that our physical movements may be encoded in our brains in a [[Language of Fourier Wave Forms]]. With this he could predict the movements of his subjects to an impressive precision. --> Maybe the brain stores information this way?
+![[Pasted image 20251217164256.png]]
 
 ## Pribram encounters Bohm
 With all things pointing towards that reality that is "experienced" is in fact just a hologram, then what is it a hologram of? Pribram then wondered, was it possible that what the mystics had been saying for centuries was true, "reality was [[maya]]", an illusion, and what was out there was really a vast, [[resonating symphony]] of wave forms, a "[[frequency domain]]", that was transformed into the world as we know it only after it entered our senses? This was where Bohn entered his picture.
@@ -73,10 +74,15 @@ One step further, wholeness was in some ways the more primary reality.  This exp
 
 ## Non-locality-visualization
 Imagine a fish in an aquarium and that you never seen a fish or an aquarium before and your only knowledge comes from 2 cameras, 1 directed at the front and 1 directed from the side. When looking at the 2 monitors, you might mistakingly assume that the fish on the screens are seperate, because of the difference in angles. But as the fish turns and mover simultaneously, you realise a relationship between them. Without the whole full scope of the situation, you might wrongly conclude that the fish are instantaneously communicating with each other. The real reason is because of at a deeper level of reality, the reality of the aquarium, the two dish are actually one and the same. This is what Bohm is saying what happens between particles, such as the two photons emitted when a positronium atom decays. --> quantum potential permeates all of space, all particles are nonlocally interconnected. This view is less like when subatomic particles travel through the void of space, seperate from eachother, and more like a web where all things are a part of, embedded in a space that was as real and rich with process as the matter that moved through it.
+![[Pasted image 20251217164346.png]]
 
 ## Enter the hologram
-Order can be hidden in their high degree of order. Something con be seen as out of order but in fact just be hidden in "disorder" when diffused but then reveal the order when reconstructed. Like demonstrated with the drop of ink in glycerine. Then an even more descriptive way of showing order show itself for Bohm, **the hologram**, almost seemed to be tailor-made for this very purpose. Where the interference patterns recorded on a piece of holographic film appear desordered to the naked eye.
-# Synchronicities
+Order can be hidden in their high degree of order. Something con be seen as out of order but in fact just be hidden in "disorder" when diffused but then reveal the order when reconstructed. Like demonstrated with the drop of ink in glycerine. Then an even more descriptive way of showing order show itself for Bohm, **the hologram**, almost seemed to be tailor-made for this very purpose. Where the interference patterns recorded on a piece of holographic film appear disordered to the naked eye.
+![[Pasted image 20251217164413.png]]
+## Enfolded orders and unfolded realities
+One of Bohm's most startling assertions is that the tangible reality is really a kind of illusion, like a holographic image. Underlying it is a deeper order of existence, a vast and more primary level of reality, that gives birth to all the objects and appearances of our physical world, like the way holographic film does to the hologram. Bohm calls this the "[[implicate]]" (which means "[[enfolded]]") [[order]], and our own level of existence as the "[[explicate]]" (unfolded) order. Bohm believes an electron is not one thing, but a totality or ensemble enfolded throughout the **whole** of space.
+
+## Synchronicities
 I have had the feeling and thoughts (intuition) about something interesting about interconnectedness and plasmatic behavior in metals for some reason. Before reading about it. And this is what I thought about [[Lorentz's Law]] was originated from in [[electrodynamics]] and such.
 
 ## Cross-References
