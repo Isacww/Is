@@ -34,7 +34,7 @@ Science is not prejudice-free. Why is so many of societies greatest insights and
 ## Pribram's excitement:
 About [[hologram]]s , one of the things that makes holographic possible is [[interference]]. Any wavelike phenomena can create [[interference pattern]], including light - and radio-waves. Hologram are actually already possible. this is a sketch of how an three dimensional hologram is created of an apple through interference, as soon as another laser beam (or in some cases just a bright light source) is shined through the film, a 3-dimensional image appear.
 ![[Pasted image 20251217111534.png]]
-
+To Pribram this can explain a lot. If a piece of holographic film is cut in half and then illuminated by a laser, each half will still be found to contain the entire image. Keep dividing the film and the image just get hazier as the portions get smaller, not fragmented in parts of the while as one could expect. This is essential for memory distribution/storage in human brain since the same feature could explain it he said. As per say, the vision could act the same way aswell. Pribram debunked the one-to-one theory of image/photographic-like projection onto the cortial surface. Neurons are packed together so densely, the expanding ripples of electricity in the brain - also a wave-like phenominon - are constantly crisscr
 ## Synchronicities
 <!-- events that lined up -->
 
