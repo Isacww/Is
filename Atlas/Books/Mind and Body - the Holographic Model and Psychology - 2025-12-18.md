@@ -30,9 +30,12 @@ Grof studied patients with repeated LSD treatment which "let them tap into all s
 ## A flaw in the fabric of reality
 Another of Jung's great contributions was defining the concept of synchronicity. They reveal the absence of division between the physical world and our inner psychological reality. Thus the relative scarcity of synchronous experiences in our liver show not only the extent to which we have fragmented ourselves from the general field of consciousness but also the degree to which we have sealed ourselves off from the infinite and dazzling potential of the deeper orders of mind and reality.
 "Synchronicity is coincidences that are so unusual and so meaningful they hardly could be attributed to chance alone."
-Like Jung's scarab story, pointing to a rebirth of his patient during painstaking sessions. He said that they almost always accompanied periods of emotional intensity and tranformation: fundemental d
+Like Jung's scarab story, pointing to a rebirth of his patient during painstaking sessions. He said that they almost always accompanied periods of emotional intensity and transformation: fundamental changes in beliefs, sudden and new insights, deaths, births and even changes in profession. "is the human mind operating, for a moment, in its true order and extending throughout society and nature moving through orders of increasing subtletly, reaching past the source of mind and matter into creativity itself."
+
+## I sing the body holographic
+The brain can not always determine what's "out there" and what it thinks is "out there." Which is why the phantom limb phenomenon occurs to amputees. Put in another way, in a brain that operates holographically, the remembered image of a thing can have as much impact on the senses as the thing itself, which is used in a selective treatments for hard cases 
 ## Synchronicities
-<!-- events that lined up -->
+Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
 
 ## Cross-References
 [[Holographic worldview - Talbot - 2025-12-17]]
