@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bf194bc9598ebb56",
+        "id": "ee5274eb5ab34ac7",
         "type": "tabs",
         "children": [
           {
-            "id": "18c046483fe6c19b",
+            "id": "7a594a9febafb24b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Books/Mind and Body - the Holographic Model and Psychology - 2025-12-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mind and Body - the Holographic Model and Psychology - 2025-12-18"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/Books/Mind and Body - the Holographic Model and Psychology - 2025-12-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Mind and Body - the Holographic Model and Psychology - 2025-12-18"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas/Books/Mind and Body - the Holographic Model and Psychology - 2025-12-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Mind and Body - the Holographic Model and Psychology - 2025-12-18"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Atlas/Books/Mind and Body - the Holographic Model and Psychology - 2025-12-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mind and Body - the Holographic Model and Psychology - 2025-12-18"
             }
           }
         ]
@@ -178,8 +185,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "18c046483fe6c19b",
+  "active": "7a594a9febafb24b",
   "lastOpenFiles": [
+    "Atlas/Articles/Continuity equation - 2025-12-12.md",
+    "attachments/Pasted image 20251220073108.png",
+    "Mass form.md",
     "Journal/Quotes/Yoga - 2025-12-20.md",
     "Journal/Thoughts/yoga as new dimension - 2025-12-20.md",
     "Atlas/Books/Mind and Body - the Holographic Model and Psychology - 2025-12-18.md",
@@ -201,7 +211,6 @@
     "attachments",
     "Templates/Article Template.md",
     "Atlas/Books/Quantum Ontology - 2025-12-12.md",
-    "Atlas/Articles/Continuity equation - 2025-12-12.md",
     "Atlas/Articles/Lorentz Force - 2025-12-12.md",
     "Journal/Thoughts/Pertha - 2025-12-12.md",
     "Templates/Video Template.md",
@@ -218,11 +227,9 @@
     "Journal/Questions",
     "Journal/Ideas",
     "Journal/Thoughts",
-    "Journal/Untitled - 2025-12-08.md",
     "Atlas/Videos",
     "Atlas/Articles",
     "Atlas/Books",
-    "Journal/- 2025-12-08.md",
     "Inbox"
   ]
 }
