@@ -42,7 +42,7 @@ The brain can not always determine what's [["out there"]] and what it thinks is 
 **[[Breznits]] found that the stress hormone levels in the soldiers' blood always reflected their estimates and not the actual distance they had marched. Their bodies responded not to reality, but to what they were imagining as reality.** Which also had explains why the placeebo effect can have such positive impact. 
 
 ## Psychokinesis
-Dunne propose that psychokinesis (PK) actually involves an exchange of information
+Dunne propose that psychokinesis (PK) actually involves an exchange of information between conciousness and physical reality, an echange that should be thought of less as a flow between the mental and the material, and more as a "resonance" between the two. The importance of resonance was even sensed and commented on by the volenteers in the PK experiments, in that the most frequently mentioned factor associated with a successful performance was the attainment of a feeeling of "resonance" with the machine. One volenteer described the feeling as ""
 ## Synchronicities
 Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
 
