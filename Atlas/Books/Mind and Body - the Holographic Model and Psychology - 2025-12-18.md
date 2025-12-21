@@ -62,7 +62,12 @@ Human energy field has a number of distinct layers, it is believed. These layers
 
 Many psychics assert that they are seven main layers, or subtle bodies, each progressively less dence than the one before it, and more difficult to see, They have different names dur to different schools of thought. First four refers to the ethric body; the astral, or the emotional body; the mental body, and the cansal, or intuitive body. It is generally believed that the etheric body, that is closest in size to the physical body, is a kind of energy blueprint and is involved in quiding and shaping the growth of the physical body. And the next three are related to emotional, mental, and intuitive processes. Virtually agrees on what to call the next three, but commonly agreed that they have to do with the soul and higher spiritual functioning.
 
-According to Indian Yogic literature, we have special energy centers in our body. There focal points of subtle energy are connected to endocrine 
+According to Indian Yogic literature, we have special energy centers in our body. There focal points of subtle energy are connected to endocrine glands and major nerve centers in the physical body, but also extend up and into the energy field. Because they resemble spinning vortices of energy when they are looked at head-on, yogic literature refers to them as chakras, from the sanskrit word for "wheel."
+
+the crown chakra, an important chakra that originates in the upper most tip of the brain and is associated with spiritual awakening, is often described by clairvoyants as looking like a little  cyclone whirling in the energy field on top of the head. It is wondered by Talbot if it refers to what apostle Like was seeing when he described the "flame of the Pentecost," the tongues of fire that appeared on the heads of the apostles when the Holy Ghost descended on them.
+
+## Seeing the human energy field
+
 ## Synchronicities
 Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
 
