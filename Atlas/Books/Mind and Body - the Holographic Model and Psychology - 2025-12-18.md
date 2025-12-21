@@ -42,7 +42,10 @@ The brain can not always determine what's [["out there"]] and what it thinks is 
 **[[Breznits]] found that the stress hormone levels in the soldiers' blood always reflected their estimates and not the actual distance they had marched. Their bodies responded not to reality, but to what they were imagining as reality.** Which also had explains why the placeebo effect can have such positive impact. 
 
 ## Psychokinesis
-Dunne propose that psychokinesis (PK) actually involves an exchange of information between conciousness and physical reality, an echange that should be thought of less as a flow between the mental and the material, and more as a "resonance" between the two. The importance of resonance was even sensed and commented on by the volenteers in the PK experiments, in that the most frequently mentioned factor associated with a successful performance was the attainment of a feeeling of "resonance" with the machine. One volenteer described the feeling as ""
+Dunne propose that psychokinesis (PK) actually involves an exchange of information between consciousness and physical reality, an exchange that should be thought of less as a flow between the mental and the material, and more as a "resonance" between the two. The importance of resonance was even sensed and commented on by the volunteers in the PK experiments, in that the most frequently mentioned factor associated with a successful performance was the attainment of a feeling of "resonance" with the machine. One volunteer described the feeling as "a state of immersion in the process which leads to a less of awareness of myself. I don't feel any direct control over the device, more like a marginal influence when I'm in resonance with the machine. It's like being a canoe; when it foes where I want, i flow with it. When it doesn't I try to break the flow and give it a chance to get back in resonance with me."
+
+## The law of physics and realities both potential and real
+The Jansenists in France around 1600s where said to be invulnerable to a miraculous extent. But one qenumdrum remained, where did the energy from the hammer into the belly go? For example that is. And the fire that was supposed to melt the humans? But if consciousness can mediate direct
 ## Synchronicities
 Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
 
