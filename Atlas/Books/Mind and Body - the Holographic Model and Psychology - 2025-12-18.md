@@ -60,7 +60,9 @@ One mystical phenomenon that appears to involve the ability tot see reality's fr
 
 Human energy field has a number of distinct layers, it is believed. These layers are actually said to be three-dimensional energy bodies that occupy the same space as the physical body but are of increasingly larger size so that they only look like layers, or strata, as they extend outward from the body. 
 
+Many psychics assert that they are seven main layers, or subtle bodies, each progressively less dence than the one before it, and more difficult to see, They have different names dur to different schools of thought. First four refers to the ethric body; the astral, or the emotional body; the mental body, and the cansal, or intuitive body. It is generally believed that the etheric body, that is closest in size to the physical body, is a kind of energy blueprint and is involved in quiding and shaping the growth of the physical body. And the next three are related to emotional, mental, and intuitive processes. Virtually agrees on what to call the next three, but commonly agreed that they have to do with the soul and higher spiritual functioning.
 
+According to Indian Yogic literature, we have special energy centers in our body. There focal points of subtle energy are connected to endocrine 
 ## Synchronicities
 Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
 
