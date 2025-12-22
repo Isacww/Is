@@ -129,7 +129,7 @@ No [[enamourment]] --> objectivity, [[participatory approach]].
 Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
 [["as above, so below"]]
 ## Cross-References
-[[Holographic worldview - Talbot - 2025-12-17]]
+[[The Holographic Model - Talbot - 2025-12-17]]
 
 ## Next Actions
 <!-- ideas sparked -->
