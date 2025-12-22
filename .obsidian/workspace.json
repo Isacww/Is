@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d0ba313bb785b16d",
+        "id": "076b41cc05086762",
         "type": "tabs",
         "children": [
           {
-            "id": "020c9d2f4d93defb",
+            "id": "a1f95a039ca33a4f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -178,13 +178,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "020c9d2f4d93defb",
+  "active": "a1f95a039ca33a4f",
   "lastOpenFiles": [
+    "enfolded.md",
+    "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/The Laws of Physics both potential and real - 2025-12-22.md",
+    "Atlas/Books/The Holographic Model chapter notes/Enfolded orders and unfolded realities - 2025-12-22.md",
     "Journal/Thoughts/Pertha - 2025-12-12.md",
     "reality.md",
     "miracle.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/I sing the body Holographic - 2025-12-22.md",
-    "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/The Laws of Physics both potential and real - 2025-12-22.md",
     "Atlas/Books/Mind and Body - the Holographic Model and Psychology - 2025-12-18.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/Chaos holographic pattern - 2025-12-22.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/The human energy field - 2025-12-22.md",
@@ -200,13 +202,11 @@
     "Atlas/Books/The Holographic Model chapter notes/Pribram encounters Bohm - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Consciousness as a more subtle form of matter - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/The Undivided wholeness of all things - 2025-12-22.md",
-    "Atlas/Books/The Holographic Model chapter notes/Enfolded orders and unfolded realities - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Enter the Hologram - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/non-locality - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/A Living Sea of Electrons - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Cosmos as a hologram - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/The dancer as a wave form - 2025-12-22.md",
-    "Atlas/Books/The Holographic Model chapter notes/The mathematical language of the hologram.md",
     "Atlas/Books/The Holographic Model chapter notes",
     "attachments/Pasted image 20251220073108.png",
     "Journal/Thoughts/Untitled",
