@@ -4,7 +4,7 @@ book: Srinivasa Ramanujan
 tags: book
 ---
 # Notes:
-After finding geometry limited, he move on to Algebra. There he picked up several series of books. He used to say that the Goddess
+After finding geometry limited, he move on to Algebra. There he picked up several series of books. He used to say that the goddess of [[Namakkal]] inspired him with his formulas in his [[dream]]s. It is a remarkable fact that frequently, on the rising out of bed, he would note down results and and verify them, though he was not always able to supply a solid proof.
 ## Key Phrase/Quote
 <!-- paste quote -->
 
