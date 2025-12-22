@@ -122,7 +122,8 @@ Empedocles: "God is a circle whose center is everywhere , and its circumference 
 New area: "[[holographic sound]]"
 Unfashionable things to believe? --> dissolved --> science restructuring.
 No [[enamourment]] --> objectivity, [[participatory approach]].
-[[participatory approach]] - is what we see in quantum theory where the limit of our strictly ovjective approach no longer suffice.
+[[Harman]]: [["A willingness to be transformed is an essential characteristic of the participatory scientist."]]
+"We are, as the aborigines say, just learning how to [[survive in infinity]]."
 "Experience of observing that is important, and not just the act of observation"
 ## Synchronicities
 Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
