@@ -21,13 +21,6 @@ Second part of the book I read: "Holographic  Model of the Universe" written by 
 
 ## Notes:
 
-
-
-
-
-
-
-
 ## Seeing Holographically
 We as human beings consider ourselves to be made up of "solid matter." Actually, the physical body is the end product, so to speak, of the subtle information fields, which mold our physical body as well as all physical matter. These fields are holograms which change in time (and are) outside the reach of our normal senses. This is what clairvoyants perceive as colorful egg-shaped halos or auras surrounding our physical bodies. -- Itzhak Bentov, stalking the wild pendulum
 
