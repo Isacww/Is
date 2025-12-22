@@ -105,10 +105,18 @@ Open-mindedness is essential considering all the silly-ness surrounding the topi
 
 Not all subjects were eager to learn about the future their metaconsciousness had laid out for them and instructed that the post-hypnosis to NOT remember the memories. They did not want to be tempted to tamper with the script they had unconsciously written for themself.
 
+"Is it possible that our unconscious mind is not only aware of the rough outline of our destiny, but actually steers us toward fulfilment?"
+Whitton: "The message of metaconsciousness is that the life situation of every human being is neither random nor inappropriate. Seen objectively from the interlife, every human experience is simply another lesson in the cosmic classroom."
+
+"If a person dies without completing all the lessons they need to learn, their spirit body returns and is reborn in another physical body."
+
+The Ojibway Indians a persons life is scripted by an invisible spirit or soul and is laid out in a manner that promotes growth and development. The Kahunas call this the aumakua, or "high self."
+
+## Some snippets from the end of the book:
 
 ## Synchronicities
 Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
-
+[["as above, so below"]]
 ## Cross-References
 [[Holographic worldview - Talbot - 2025-12-17]]
 
