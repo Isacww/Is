@@ -21,10 +21,6 @@ Second part of the book I read: "Holographic  Model of the Universe" written by 
 
 ## Notes:
 
-
-
-
-
 ## What is the human energy field made of?
 Despite the human energy field's electrical aspects, Hint does not believe it is purely electromagnetism in nature. Thinks its more complex and without a doubt composed for an as yet undiscovered energy. Best clue comes from the fact that almost without exception physics describe it as having a higher frequency or vibration then normal matter-energy. Given the uncanny accuracy talented physics have in regards to seeing illnesses in the energy field, we should pay attention to this observation.
 
