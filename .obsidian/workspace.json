@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
+                "file": "Atlas/Articles/Srinivasa Ramanujan - 2025-12-22.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
+                "file": "Atlas/Articles/Srinivasa Ramanujan - 2025-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
+                "file": "Atlas/Articles/Srinivasa Ramanujan - 2025-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
+                "file": "Atlas/Articles/Srinivasa Ramanujan - 2025-12-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,9 +185,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1f95a039ca33a4f",
+  "active": "621a0f93374ab294",
   "lastOpenFiles": [
-    "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
+    "Atlas/Articles/Srinivasa Ramanujan - 2025-12-22.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/Chaos holographic pattern - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Pribram encounters Bohm - 2025-12-22.md",
     "enfolded.md",
