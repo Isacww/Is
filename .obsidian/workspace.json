@@ -11,10 +11,14 @@
             "id": "a1f95a039ca33a4f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Srinivasa Ramanujan - 2025-12-22"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Srinivasa Ramanujan - 2025-12-22"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Srinivasa Ramanujan - 2025-12-22"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Srinivasa Ramanujan - 2025-12-22"
             }
           }
         ]
@@ -180,6 +187,7 @@
   },
   "active": "a1f95a039ca33a4f",
   "lastOpenFiles": [
+    "Atlas/Books/Srinivasa Ramanujan - 2025-12-22.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/Chaos holographic pattern - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Pribram encounters Bohm - 2025-12-22.md",
     "enfolded.md",
@@ -206,7 +214,6 @@
     "Atlas/Books/The Holographic Model chapter notes/non-locality - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/A Living Sea of Electrons - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Cosmos as a hologram - 2025-12-22.md",
-    "Atlas/Books/The Holographic Model chapter notes/The dancer as a wave form - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes",
     "attachments/Pasted image 20251220073108.png",
     "Journal/Thoughts/Untitled",
