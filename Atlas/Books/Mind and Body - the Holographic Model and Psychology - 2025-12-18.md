@@ -113,7 +113,17 @@ Whitton: "The message of metaconsciousness is that the life situation of every h
 The Ojibway Indians a persons life is scripted by an invisible spirit or soul and is laid out in a manner that promotes growth and development. The Kahunas call this the aumakua, or "high self."
 
 ## Some snippets from the end of the book:
-
+"A mass of stable light"
+"[[Imaginal realm]]"
+"Completing their cycle of incarnations here,"
+"The without is like the within of things; the small is like the large."
+"As above, so below."
+Empedocles: "God is a circle whose center is everywhere , and its circumference is nowhere."
+New area: "[[holographic sound]]"
+Unfashionable things to believe? --> dissolved --> science restructuring.
+No [[enamourment]] --> objectivity, [[participatory approach]].
+[[participatory approach]] - is what we see in quantum theory where the limit of our strictly ovjective approach no longer suffice.
+"Experience of observing that is important, and not just the act of observation"
 ## Synchronicities
 Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
 [["as above, so below"]]
