@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/Books/The Holographic Model chapter notes/The mathematical language of the hologram.md",
+                "file": "Atlas/Books/The Holographic Model chapter notes/A Living Sea of Electrons - 2025-12-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The mathematical language of the hologram"
+              "title": "A Living Sea of Electrons - 2025-12-22"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/Books/The Holographic Model chapter notes/The mathematical language of the hologram.md",
+                "file": "Atlas/Books/The Holographic Model chapter notes/A Living Sea of Electrons - 2025-12-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The mathematical language of the hologram"
+              "title": "Backlinks for A Living Sea of Electrons - 2025-12-22"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/Books/The Holographic Model chapter notes/The mathematical language of the hologram.md",
+                "file": "Atlas/Books/The Holographic Model chapter notes/A Living Sea of Electrons - 2025-12-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The mathematical language of the hologram"
+              "title": "Outgoing links from A Living Sea of Electrons - 2025-12-22"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/Books/The Holographic Model chapter notes/The mathematical language of the hologram.md",
+                "file": "Atlas/Books/The Holographic Model chapter notes/A Living Sea of Electrons - 2025-12-22.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The mathematical language of the hologram"
+              "title": "Outline of A Living Sea of Electrons - 2025-12-22"
             }
           }
         ]
@@ -185,9 +185,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "621a0f93374ab294",
+  "active": "4f548731a47a5dc9",
   "lastOpenFiles": [
     "Atlas/Books/The Holographic Model - Talbot - 2025-12-17.md",
+    "Atlas/Books/The Holographic Model chapter notes/A Living Sea of Electrons - 2025-12-22.md",
+    "Atlas/Books/The Holographic Model chapter notes/Cosmos as a hologram - 2025-12-22.md",
+    "Atlas/Books/The Holographic Model chapter notes/Pribram encounters Bohm - 2025-12-22.md",
+    "Atlas/Books/The Holographic Model chapter notes/The dancer as a wave form - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/The mathematical language of the hologram.md",
     "Atlas/Books/The Holographic Model chapter notes/World out-there - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Compact memory - 2025-12-22.md",
@@ -213,9 +217,6 @@
     "attachments/Pasted image 20251218154149.png",
     "pre-sleep.md",
     "Journal/Thoughts/convergence of concepts - 2025-12-12.md",
-    "continuum.md",
-    "Fourier Language.md",
-    "one thing.md",
     "attachments/Pasted image 20251217170731.png",
     "attachments/Pasted image 20251217164413.png",
     "attachments/Pasted image 20251217164346.png",
@@ -224,7 +225,6 @@
     "attachments/Pasted image 20251217164103.png",
     "attachments/Pasted image 20251217111534.png",
     "attachments",
-    "Templates/Article Template.md",
     "Journal/Quotes",
     "Journal/Questions",
     "Journal/Ideas",

@@ -26,20 +26,6 @@ I saw a short [[video]] about Talbot shortly describing the view of his and then
 
 
 
-## The dancer as Wave Form
-Tests show that out sences are frequency-analyzers. [[Nikolai Bernstein]]'s discovery even showed that our physical movements may be encoded in our brains in a [[Language of Fourier Wave Forms]]. With this he could predict the movements of his subjects to an impressive precision. --> Maybe the brain stores information this way?
-![[Pasted image 20251217164256.png]]
-
-## Pribram encounters Bohm
-With all things pointing towards that reality that is "experienced" is in fact just a hologram, then what is it a hologram of? Pribram then wondered, was it possible that what the mystics had been saying for centuries was true, "reality was [[maya]]", an illusion, and what was out there was really a vast, [[resonating symphony]] of wave forms, a "[[frequency domain]]", that was transformed into the world as we know it only after it entered our senses? This was where Bohn entered his picture.
-
-## Cosmos as a hologram
-An electron cannot solely be defined as a particle, since it also has wave-like qualities. This phenomena of something that somehow embodies both is called "[[quanta]]" and physicists believe that they are the basic stuff from which the entire universe is made. A common way of thinking is that quanta (which is a multiple if a single quantum) only "acts" or transforms into particles when observed. But Bohm thinks differently.
-
-## A living sea of Electrons
-At first Bohm also accepted [[Bohr]]'s position, but remained puzzled by the lack of interest Bohr and the rest had towards [[interconnectedness]]. With this, research in [[plasmas]] took place. They are a gas containing a high density of electrons and positive ions (atoms that have a positive charge). Once in the plasma, electrons stopped behaving like individuals and started behaving as if they were part of a larger and interconnected whole. Extending this research he studied electrons in metals. Once again the seemingly haphazard movements of individual electrons managed to produce highly organized overall effects, just like the plasmas, these were no longer situations involving two particles each behaving as if it know what the other was doing, but entire oceans of particles, each behaving as if they know what trillions of others were doing simultaneously. He called it: "[[plasmons]]".
-After the conversation about Bohm's interpretation of Bohr's view of quantum domains, with Einstein, it cemented as the conversial belief as the complete description. This did not sit right with Bohm, as its definition could be infinite in its nature. So he continued his exploration, this time not enthusively followed by the rest of scientific communities.
-
 ## NON-Locality
 One step further, wholeness was in some ways the more primary reality.  This explained how electrons in plasmas, superconductivity and other specialized stats could begave like interconnected wholes. As Bohm states: "electrons are not scattered because, through the action of the [[quantum potential]], the whole system is undergoing a co-ordinated movement more like a ballet dance than like a crowd of unorganized people" - "such quantum wholeness of activity is closer to the kind of unity of functioning of the parts of a machine." An even more surprising feature of the quantum potential was its implications for the nature of location. At the level of our everyday lives, things have very specific locations, but Bohm's interpretation of quantum physics indicated that at the subquantum level, the level in which the quantum potential operated, location ceases to exist. All points in space become equal to all other points in space, and it was meaningless to speak of anything as being seperate from anything else. Physicists calls it "[[non-locality]]." This enabled explanation to connection between [[twin particles]] without violating [[special relativity]]'s ban against anything travelling faster than light. 
 
