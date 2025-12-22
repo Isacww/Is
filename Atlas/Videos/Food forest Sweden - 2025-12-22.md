@@ -11,7 +11,7 @@ tags:
 <!-- paste quote -->
 
 ## My Connection
-While reading the books of [[Ringing Cedars]] I have wondered who the place of love and motherland would look like in [[Sweden]]. A almost self sustaining forest with fruits and nuts that sustain humans living in it planted with care for the coming generations. 
+While reading the books of [[Ringing Cedars]] I have wondered who the place of love and motherland would look like in [[Sweden]]. A almost self sustaining forest with fruits and nuts that sustain humans living in it planted with care for the coming generations. I believe that through [[agroforest]], it will be possible to re-establish the symbiosis with nature and God's given paradise. 
 
 ## Synchronicities
 <!-- events that lined up -->
