@@ -14,7 +14,7 @@ The [[Jansenists]] in [[France]] around 1600s where said to be invulnerable to a
 <!-- events that lined up -->
 
 ## Cross-References
-[[miracles]]
+[[miracle]]
 [[Mind and Body - the Holographic Model and Psychology - 2025-12-18]]
 
 ## Next Actions
