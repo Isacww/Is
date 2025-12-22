@@ -21,14 +21,6 @@ Second part of the book I read: "Holographic  Model of the Universe" written by 
 
 ## Notes:
 
-## A flaw in the fabric of [[reality]]
-Another of [[Jung]]'s great contributions was defining the concept of [[synchronicity]]. They reveal the absence of division between the physical world and our inner psychological reality. Thus the relative scarcity of synchronous experiences in our lives show not only the extent to which we have fragmented ourselves from the general [[field of consciousness]] but also the degree to which we have sealed ourselves off from the infinite and dazzling potential of the [[deeper orders of mind and reality]].
-"Synchronicity is coincidences that are so unusual and so meaningful they hardly could be attributed to chance alone."
-Like Jung's scarab story, pointing to a rebirth of his patient during painstaking sessions. He said that they almost always accompanied periods of emotional intensity and transformation: [[fundamental changes in beliefs]], [[sudden and new insights]], deaths, births and even changes in profession. "is the human mind operating, for a moment, in its true order and extending throughout society and nature moving through orders of increasing subtletly, reaching past the source of mind and matter into creativity itself."
-
-## I sing the body [[holographic]]
-The brain can not always determine what's [["out there"]] and what it thinks is "out there." Which is why the [[phantom limb]] phenomenon occurs to amputees. Put in another way, in a brain that operates holographically, the remembered image of a thing can have as much impact on the senses as the thing itself, which is used in a selective treatments for hard cases of cancer patients. [[Imaginative exercises]] can turn hopelessness to [[miracles]]. Everyone can feel this when imagining somebody we love and feel a rush in the heart, same goes for anyone who has ever felt their palms grow sweaty after conjuring up the memory of some unusually frightening experience. This is strange, but holographically we asserts ALL experiences, whether real or imagined ([[virtual image]], [[real image]]?) are reduced to the same common language of organized wave forms - the situations become less puzzling. Achterberg says: "when images are regarded in the holographic manner, their omnipotent influence on physical function logically follows, The image, the behaviour, and the physiological concomitants are a unified aspect of the same phenomenon." Later performed experiments where different subject groups where student learned to increase the number of only one particular type of white cell population, T-cells and more. When learnt the [[imagery]] --> it had a significant increase in the targeted cell types.
-**[[Breznits]] found that the stress hormone levels in the soldiers' blood always reflected their estimates and not the actual distance they had marched. Their bodies responded not to reality, but to what they were imagining as reality.** Which also had explains why the placebo effect can have such positive impact. 
 
 ## Psychokinesis
 Dunne propose that psychokinesis (PK) actually involves an exchange of information between consciousness and physical reality, an exchange that should be thought of less as a flow between the mental and the material, and more as a "resonance" between the two. The importance of resonance was even sensed and commented on by the volunteers in the PK experiments, in that the most frequently mentioned factor associated with a successful performance was the attainment of a feeling of "resonance" with the machine. One volunteer described the feeling as "a state of immersion in the process which leads to a less of awareness of myself. I don't feel any direct control over the device, more like a marginal influence when I'm in resonance with the machine. It's like being a canoe; when it foes where I want, i flow with it. When it doesn't I try to break the flow and give it a chance to get back in resonance with me."
@@ -115,7 +107,6 @@ No [[enamourment]] --> objectivity, [[participatory approach]].
 "We are, as the aborigines say, just learning how to [[survive in infinity]]."
 "Experience of observing that is important, and not just the act of observation"
 ## Synchronicities
-Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
 [["as above, so below"]]
 ## Cross-References
 [[The Holographic Model - Talbot - 2025-12-17]]
