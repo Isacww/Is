@@ -67,6 +67,7 @@ According to Indian Yogic literature, we have special energy centers in our body
 the crown chakra, an important chakra that originates in the upper most tip of the brain and is associated with spiritual awakening, is often described by clairvoyants as looking like a little  cyclone whirling in the energy field on top of the head. It is wondered by Talbot if it refers to what apostle Like was seeing when he described the "flame of the Pentecost," the tongues of fire that appeared on the heads of the apostles when the Holy Ghost descended on them.
 
 ## Seeing the human energy field
+A health professional who lectures widely about the human energy field is University of southern California heart and lung specialist [[W. Brush Joy]]. Instead of seeing the aura, Joy initially was only able to
 
 ## Synchronicities
 Describing Jung's definition of synchronicities make me think of the biblical saying "[[road to Damascus]]".
