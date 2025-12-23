@@ -22,17 +22,13 @@
             }
           },
           {
-            "id": "011018ed90481b4b",
+            "id": "90dd47c17922f282",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "flow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "flow"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -109,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for flow"
+              "title": "Backlinks"
             }
           },
           {
@@ -128,12 +123,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from flow"
+              "title": "Outgoing links"
             }
           },
           {
@@ -171,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of flow"
+              "title": "Outline"
             }
           }
         ]
@@ -200,12 +193,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "011018ed90481b4b",
+  "active": "90dd47c17922f282",
   "lastOpenFiles": [
+    "superconductivity.md",
+    "Atlas/Videos/Holy Places - Rupert Sheldrake - 2025-12-23.md",
+    "is.md",
+    "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
+    "Atlas/Articles/Srinivasa Ramanujan - 2025-12-22.md",
+    "Atlas/Books/The Holographic Model chapter notes/Enter the Hologram - 2025-12-22.md",
     "flux.md",
     "flow.md",
-    "Atlas/Videos/Holy Places - Rupert Sheldrake - 2025-12-23.md",
-    "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
     "Einstein.md",
     "Atlas/Books/The Holographic Model chapter notes/The Undivided wholeness of all things - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Consciousness as a more subtle form of matter - 2025-12-22.md",
@@ -223,11 +220,7 @@
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/I sing the body Holographic - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Pribram encounters Bohm - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/The mathematical language of the hologram.md",
-    "Atlas/Articles/Srinivasa Ramanujan - 2025-12-22.md",
     "pattern.md",
-    "Atlas/Videos/Food forest Sweden - 2025-12-22.md",
-    "Atlas/Videos/Morphic Fields - Rupert Sheldrake - 2025-12-23.md",
-    "Crop circle.md",
     "attachments/Pasted image 20251223182231.png",
     "attachments/Pasted image 20251223175219.png",
     "attachments/Pasted image 20251223174945.png",
