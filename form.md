@@ -4,4 +4,3 @@
 [[Maass form]]
 [[modular form]]
 [[integral form]]
-

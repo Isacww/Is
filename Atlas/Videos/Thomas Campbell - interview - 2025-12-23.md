@@ -73,7 +73,7 @@ The universe as "big digital bang": "It starts with a set initial conditions and
 This probabilistic view is reiterated for efficiency: "In order for this computer to know what to render next it has to have this database of everything that could possibly happen next and the probability of that thing happening and it doesn't want to have to figure this all out on the Fly."
 
 ### Evolution and Purpose of Consciousness
-Consciousness evolves by "lowering its [[entropy]] [[order]]ing things," starting simple: "The simplest form of Consciousness is... a piece of aware Consciousness that could be in state a or state b... it can evolve by creating patterns." It splits for growth: "It realizes that in order to grow further I need to break off pieces of myself and give them independent Free Will."
+[[consciousness]] evolves by "lowering its [[entropy]] [[order]]ing things," starting simple: "The simplest form of Consciousness is... a piece of aware Consciousness that could be in state a or state b... it can evolve by creating patterns." It splits for growth: "It realizes that in order to grow further I need to break off pieces of myself and give them independent Free Will."
 
 Virtual realities for choices: "The second virtual reality... a really tight little ball of plasma under extremely high pressure... the rule set is... physics chemistry biology." Purpose: "We're here to evolve the quality of our Consciousness... the goal is through cooperation caring helping... on the opposite side... the fear side." Decision space: "The other creatures had small decision spaces... you might really have 25 but you don't know about the other 15."
 
