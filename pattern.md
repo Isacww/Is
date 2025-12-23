@@ -1,0 +1,7 @@
+[[chaos pattern]]
+[[hidden patterns]]
+[[repeating patterns]]
+[[interference pattern]]
+[[interference patterns]]
+[[self-similar patterns]]
+[[form]]
