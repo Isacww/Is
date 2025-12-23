@@ -42,7 +42,8 @@ In simpler systems, Sheldrake studied the bird's nest fern (Asplenium nidus) pro
 
 ### Electrical Polarity
 Electrical polarity is underexplored. Germinating spores/eggs show [[electrical polarity]] between root and shoot parts. Plants exist in Earth's [[electric field]] (negative ground vs. positive atmosphere, ~100V/m [[gradient]]). Trees conduct electricity via sap, becoming negatively charged tips attracting ions. Recent studies on flowers show petal gradients, with positive [[particle]]s adhering to negative tips. Leaves likely have similar gradients, potentially setting up auxin transport polarity. Initial polarity establishment may involve electric gradients, an open question; experiments suggested (e.g., spraying charged particles on leaves) to test this.
-
+![[Pasted image 20251223174945.png]]
+![[Pasted image 20251223175219.png]]
 The talk concludes that while auxin transport details (including molecular levels, from work with Philip Rubery) are known, initial polarity origins remain unknown, with electricity possibly key. More on polar auxin transport in future talks.
 
 ## Synchronicities
