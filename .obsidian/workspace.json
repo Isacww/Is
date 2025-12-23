@@ -10,11 +10,27 @@
           {
             "id": "474c5ec1b3401736",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Overview of fractal implosion - Dan Winter - 2025-12-23"
+            }
+          },
+          {
+            "id": "f6d395e416274728",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -90,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Overview of fractal implosion - Dan Winter - 2025-12-23"
             }
           },
           {
@@ -108,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Overview of fractal implosion - Dan Winter - 2025-12-23"
             }
           },
           {
@@ -150,12 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Overview of fractal implosion - Dan Winter - 2025-12-23"
             }
           }
         ]
@@ -180,14 +199,16 @@
   },
   "active": "474c5ec1b3401736",
   "lastOpenFiles": [
-    "Crop circle.md",
-    "Atlas/Videos/Thomas Campbell - interview - 2025-12-23.md",
-    "attachments/Pasted image 20251223182231.png",
+    "Atlas/Videos/Food forest Sweden - 2025-12-22.md",
     "Atlas/Videos/Morphic Fields - Rupert Sheldrake - 2025-12-23.md",
+    "Atlas/Videos/Holy Places - Rupert Sheldrake - 2025-12-23.md",
+    "Atlas/Videos/Thomas Campbell - interview - 2025-12-23.md",
+    "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
+    "Crop circle.md",
+    "attachments/Pasted image 20251223182231.png",
     "Atlas/Videos/The Polarity of Plants - 2025-12-23.md",
     "attachments/Pasted image 20251223175219.png",
     "attachments/Pasted image 20251223174945.png",
-    "Atlas/Videos/Holy Places - Rupert Sheldrake - 2025-12-23.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/Chaos holographic pattern - 2025-12-22.md",
     "interconnectedness.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/The Laws of Physics both potential and real - 2025-12-22.md",
@@ -207,8 +228,6 @@
     "Atlas/Books/The Holographic Model chapter notes/Overview - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/Not researched more - 2025-12-22.md",
     "Atlas/Books/The Holographic Model chapter notes/non-locality - 2025-12-22.md",
-    "Atlas/Books/The Holographic Model chapter notes/Main reason for the idea - 2025-12-22.md",
-    "Atlas/Books/The Holographic Model chapter notes/Enter the Hologram - 2025-12-22.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology",
     "Atlas/Books/The Holographic Model chapter notes",
     "attachments/Pasted image 20251220073108.png",
