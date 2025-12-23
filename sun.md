@@ -1,0 +1,5 @@
+[[solar wind]]
+[[solar plexus]]
+[[solar flares]]
+[[solar storms]]
+[[life force]]

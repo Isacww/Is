@@ -1,0 +1,8 @@
+[[omnipotent]]
+[[love]]
+[[Jesus]]
+[[holy]]
+[[Holy Ghost]]
+[[wholeness]]
+[[faith]]
+[[ber]]

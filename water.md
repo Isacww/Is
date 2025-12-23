@@ -1,0 +1,6 @@
+[[conductivity]]
+[[energy]]
+[[God]]
+[[interconnectedness]]
+[[holy]]
+[[life force]]

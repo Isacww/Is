@@ -25,10 +25,14 @@
             "id": "90dd47c17922f282",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "God.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "God"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "God.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for God"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "God.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from God"
             }
           },
           {
@@ -165,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "God.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of God"
             }
           }
         ]
@@ -195,6 +202,11 @@
   },
   "active": "90dd47c17922f282",
   "lastOpenFiles": [
+    "sun.md",
+    "egg.md",
+    "water.md",
+    "oneness.md",
+    "God.md",
     "energy.md",
     "memorize.md",
     "disorder.md",
@@ -216,11 +228,6 @@
     "Journal/Thoughts/Pertha - 2025-12-12.md",
     "Atlas/Videos/The Polarity of Plants - 2025-12-23.md",
     "superconductivity.md",
-    "is.md",
-    "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
-    "Atlas/Articles/Srinivasa Ramanujan - 2025-12-22.md",
-    "Atlas/Books/The Holographic Model chapter notes/Enter the Hologram - 2025-12-22.md",
-    "flux.md",
     "attachments/Pasted image 20251223182231.png",
     "attachments/Pasted image 20251223175219.png",
     "attachments/Pasted image 20251223174945.png",

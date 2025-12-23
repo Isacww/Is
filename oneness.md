@@ -1,0 +1,3 @@
+[[wholeness]]
+[[God]]
+[[human awareness]]
