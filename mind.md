@@ -1,0 +1,3 @@
+[[attention]]
+[[focused attention]]
+[[consciousness]]
