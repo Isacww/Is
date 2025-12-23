@@ -1,0 +1,7 @@
+[[flux]]
+[[influx]]
+[[Auxin flow]]
+[[energy flows]]
+[[incompressible flow]]
+[[align thoughts with compassionate flow]]
+[[flow]]
