@@ -2,3 +2,4 @@
 [[spiritualism]]
 [[spiritual functioning]]
 [[spirituality (kundalini as spinal energy surge)]]
+[[holistic]]

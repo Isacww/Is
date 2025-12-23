@@ -1,0 +1,6 @@
+[[holistic]]
+[[God]]
+[[interconnectedness]]
+[[interconnected whole]]
+[[Wholeness =? holiness]]
+[[quantum wholeness]]
