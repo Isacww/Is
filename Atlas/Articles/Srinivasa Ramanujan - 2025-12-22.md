@@ -1,7 +1,11 @@
 ---
 date: 2025-12-22
 book: Srinivasa Ramanujan
-tags: book
+tags:
+  - book
+  - dream
+  - quantum
+  - math
 ---
 # Notes:
 After finding geometry limited, he move on to Algebra. There he picked up several series of books. He used to say that the goddess of Namakkal inspired him with his formulas in his [[dream]]s. It is a remarkable fact that frequently, on the rising out of bed, he would note down results and and verify them, though he was not always able to supply a solid proof.
@@ -20,7 +24,13 @@ Ramanujan's approach was dream-inspired (he credited the goddess [[Namagiri]]), 
     - **What He Did**: Ramanujan defined the tau function as the coefficients in the [[Fourier]] expansion of the modular discriminant Δ(q), a weight-12 cusp form (a modular form that vanishes at infinity). This function measures the "discriminant" in elliptic curves and has multiplicative properties (τ(mn) = τ(m)τ(n) for coprime m,n).
     - **Formula**:
         
-        Δ(q)=q∏n=1∞(1−qn)24=∑n=1∞τ(n)qn\Delta(q) = q \prod_{n=1}^{\infty} (1 - q^n)^{24} = \sum_{n=1}^{\infty} \tau(n) q^nΔ(q)=qn=1∏∞​(1−qn)24=n=1∑∞​τ(n)qn
+
+		#### Ramanujan's Tau Function and Modular Discriminant
+		
+		The modular discriminant Δ(q) is expanded as:
+		
+		Δ(q)=q∏n=1∞(1−qn)24=∑n=1∞τ(n)qn//\Delta(q) = q \prod_{n=1}^{\infty} (1 - q^n)^{24} = \sum_{n=1}^{\infty} \tau(n) q^n//Δ(q)=q∏n=1∞​(1−qn)24=∑n=1∞​τ(n)qn
+		Where τ(n) is the tau function, with examples: τ(1) = 1, τ(2) = -24, τ(3) = 252. 
         
         So, τ(1) = 1, τ(2) = -24, τ(3) = 252, etc.
     - **Current Interpretation**: The tau function is central to the theory of modular forms, used in studying L-functions (analytic tools for primes) and elliptic curves. Deligne proved Ramanujan's conjecture on its growth bound (|τ(p)| ≤ 2p^{11/2} for prime p) in 1974 using algebraic geometry, earning a Fields Medal. It applies in cryptography (via elliptic curve methods) and physics (counting black hole states in string theory).[math.ucla.edu](https://www.math.ucla.edu/~wdduke/preprints/ramanujan.pdf)+2 more
