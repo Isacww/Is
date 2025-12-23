@@ -8,13 +8,13 @@ tags:
 
 ### Morphic Fields and Morphic Resonance Concept
 
-Morphic [[resonance]] is presented as nature's inherent [[memory]], where the whole of nature has a collective memory for form, instinct, and behavior. Laws of nature are likened to [[habit]]s rather than fixed eternal rules. Each species has a collective memory, tuning into similar systems across time and space through vibratory pattern similarity, allowing resonance with past systems and conveying memory. For example, young antelopes tune into the behavior and form of previous antelopes. Humans do the same, and the collective unconscious is explained as collective memory through morphic resonance. Morphogenetic fields are form-shaping fields that are top-down and holistic, like invisible molds or patterns shaping a developing leaf. They are compared to magnetic fields, retaining wholeness when divided. Inheritance of morphogenetic fields isn't genetic; genes code for proteins, but morphic fields provide the shaping pattern. Morphic fields include morphogenetic (for form in organisms), behavioral (for nervous system activity), mental (for mental activity), and social (for flocks, colonies). All are shaped by morphic resonance with inherent memory.
+Morphic [[resonance]] is presented as nature's inherent [[memory]], where the whole of nature has a collective memory for form, instinct, and behavior. Laws of nature are likened to [[habit]]s rather than fixed eternal rules. Each species has a collective memory, tuning into similar systems across time and space through vibratory pattern similarity, allowing resonance with past systems and conveying memory. For example, young antelopes tune into the behavior and form of previous antelopes. Humans do the same, and the collective [[unconscious]] is explained as collective memory through [[morphic resonance]]. Morphogenetic fields are form-shaping fields that are top-down and [[holistic]], like invisible molds or patterns shaping a developing leaf. They are compared to [[magnetic fields]], retaining [[wholeness]] when divided. Inheritance of morphogenetic fields isn't genetic; genes code for proteins, but morphic fields provide the shaping pattern. Morphic fields include morphogenetic (for form in organisms), behavioral (for nervous system activity), mental (for mental activity), and social (for flocks, colonies). All are shaped by morphic resonance with inherent memory.
 
-The concept is repeated as an explanation for various phenomena, emphasizing that morphic resonance works on similarity, with no known mechanism but possible links to David Bohm's implicate order or extra dimensions in string/M-theory. Empirical testing is prioritized over theoretical models, as seen in fields like electromagnetism.
+The concept is repeated as an explanation for various [[phenomena]], emphasizing that morphic resonance works on [[similarity]], with no known mechanism but possible links to David [[Bohm]]'s [[implicate]] [[order]] or extra dimensions in string/M-theory. Empirical testing is prioritized over theoretical models, as seen in fields like [[electromagnetism]].
 
 ### Critique of Genes and Materialism
 
-Genes are criticized as inadequate for explaining form; they provide proteins but not the "architectural plan," like building materials without a blueprint. Self-assembly is assumed but unproven. Epigenetics involves inheriting gene activation patterns from ancestors, but much is attributed to morphic resonance, including inheritance of acquired characteristics. The Human Genome Project disappointed with fewer genes than expected (~20,000, less than half of a rice plant's), predicting only 5-10% of traits like breast cancer or schizophrenia, despite 80-90% heritability, leading to the "missing heritability" problem. Mechanistic materialism is inadequate; a paradigm shift is needed to view nature as alive, organic, and interconnected like an organism, not a machine. _The Science Delusion_ critiques 10 dogmas, such as laws being fixed and matter unconscious. Consciousness is pervasive and primary, with the universe emerging from consciousness.
+Genes are criticized as inadequate for explaining [[form]]; they provide proteins but not the "architectural plan," like building materials without a blueprint. Self-assembly is assumed but unproven. Epigenetics involves inheriting gene activation patterns from ancestors, but much is attributed to morphic resonance, including inheritance of acquired characteristics. The Human Genome Project disappointed with fewer genes than expected (~20,000, less than half of a rice plant's), predicting only 5-10% of traits like breast cancer or [[schizophrenia]], despite 80-90% heritability, leading to the "missing heritability" problem. Mechanistic materialism is inadequate; a paradigm shift is needed to view nature as alive, organic, and interconnected like an organism, not a machine. _The Science Delusion_ critiques 10 dogmas, such as laws being fixed and matter unconscious. Consciousness is pervasive and primary, with the universe emerging from consciousness.
 
 ### Examples and Evidence of Morphic Resonance
 
@@ -36,15 +36,17 @@ Electrical polarity is underexplored but mentioned in germinating spores/eggs be
 
 Mechanistic materialism is inadequate; nature should be viewed as alive and interconnected. Science should investigate spiritual practices (prayer, meditation, pilgrimage, fasting, rituals, nature connection, celebration) for measurable effects (blood pressure, brain waves, well-being, longevity). Militant atheism is harmful. For students/young scientists, learn mainstream science but seek unconventional funding for radical ideas. Educational systems are mechanistic; learn broader ideas via YouTube/online (e.g., Essentia Foundation). Change is slow but possible.
 ## My Connection
-<!-- your insights -->
+"Morphogenetic fields are form-shaping fields that are top-down and holistic, like invisible molds or patterns shaping a developing leaf. They are compared to magnetic fields, retaining wholeness when divided." 
+- This is a crazy amount of interconnections. 
+- To "invisible molds" --> [[hologram]], "retaining wholeness when divided" --> [[holographic]]
 
 ## Synchronicities
 <!-- events that lined up -->
 
 ## Cross-References
-[[morphic resonance]]
 [[collective unconsciousness]]
-[]
+[[collective memory through morphic resonance]]
+[[morphogenetic fields]]
 
 ## URL-link
 <!-- add URL  -->
