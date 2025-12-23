@@ -70,7 +70,7 @@ from Google scholar: https://books.google.se/books?hl=sv&lr=&id=h1G2CgAAQBAJ&oi=
 <!-- events that lined up -->
 
 ## Cross-References
-I believe this is highly related to [[continuum]] and [[holographic]] perspective and [[chaos pattern]]s
+I believe this is highly related to [[continuum]] and [[holographic]] perspective and [[chaos pattern]]s and [[repeating patterns]], and [[dynamic chaos pattens]], and [[strange attractors]], and [[chaos]],[[hidden patterns]],  [[Chaos holographic pattern - 2025-12-22]] in general
 
 ## Next Actions
 <!-- ideas sparked -->
