@@ -15,7 +15,7 @@ Tests show that our senses are frequency-analyzers. [[Nikolai Bernstein]]'s disc
 <!-- events that lined up -->
 
 ## Cross-References
-[[wave forms]]
+[[wave form]]
 [[The Holographic Model - Talbot - 2025-12-17]]
 
 ## Next Actions

@@ -8,7 +8,7 @@ tags: book
 <!-- paste quote -->
 
 ## Pribram's excitement:
-About [[hologram]]s , one of the things that makes [[holography]] possible is [[interference]]. Any [[wavelike]] [[phenomena]] can create [[interference pattern]], including light - and radio-waves. Hologram are actually already possible. this is a sketch of how an three dimensional hologram is created of an apple through interference, as soon as another laser beam (or in some cases just a bright light source) is shined through the film, a 3-dimensional image appear.
+About [[hologram]]s , one of the things that makes [[holography]] possible is [[interference]]. Any [[wave-like]] [[phenomena]] can create [[interference pattern]], including light - and radio-waves. Hologram are actually already possible. this is a sketch of how an three dimensional hologram is created of an apple through interference, as soon as another laser beam (or in some cases just a bright light source) is shined through the film, a 3-dimensional image appear.
 ![[Pasted image 20251217111534.png]]
 
 ## Synchronicities

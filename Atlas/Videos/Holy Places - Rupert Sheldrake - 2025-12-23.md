@@ -53,7 +53,7 @@ Sacralize travel by visiting a city's central holy place (e.g., cathedral) to pr
 
 ### Morphic Resonance and Memory
 
-Holy places have a "[[memory]]" tuned via [[morphic resonance]], a natural memory principle where organisms and places resonate with past similar [[forms]] (e.g., rituals connect to prior practitioners). This accumulates holiness over time, benefiting from and contributing to past prayers, visions, and healings. Nature's "laws" are [[habits]], not fixed codes.
+Holy places have a "[[memory]]" tuned via [[morphic resonance]], a natural memory principle where organisms and places resonate with past similar [[form]]s (e.g., rituals connect to prior practitioners). This accumulates holiness over time, benefiting from and contributing to past prayers, visions, and healings. Nature's "laws" are [[habits]], not fixed codes.
 
 ### Benefits and Modern Relevance
 
