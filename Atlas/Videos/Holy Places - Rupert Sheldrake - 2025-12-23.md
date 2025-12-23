@@ -8,6 +8,7 @@ tags: video
 [["Holy places mediate between heaven and earth, and living and dead. Standing stones like Bethel in the Holy Land linked heaven and earth, as in Jacob's ladder dream where he slept by a stone pillar, consecrating it."]]
 "Churches are underused for quiet meditation due to their prayerful atmosphere"
 
+
 ## Notes on "Holy Places: Rupert Sheldrake's Lecture" Video[](https://www.youtube.com/watch?v=qrIlWrGe4w4&referrer=grok.com)
 
 ### Introduction to Holy Places Across Cultures
@@ -52,20 +53,22 @@ Sacralize travel by visiting a city's central holy place (e.g., cathedral) to pr
 
 ### Morphic Resonance and Memory
 
-Holy places have a "memory" tuned via morphic resonance, a natural memory principle where organisms and places resonate with past similar forms (e.g., rituals connect to prior practitioners). This accumulates holiness over time, benefiting from and contributing to past prayers, visions, and healings. Nature's "laws" are habits, not fixed codes.
+Holy places have a "[[memory]]" tuned via [[morphic resonance]], a natural memory principle where organisms and places resonate with past similar [[forms]] (e.g., rituals connect to prior practitioners). This accumulates holiness over time, benefiting from and contributing to past prayers, visions, and healings. Nature's "laws" are [[habits]], not fixed codes.
 
 ### Benefits and Modern Relevance
 
 Holy places connect heaven/earth, past/present, offering health, well-being, inspiration. Holiness is connection; unholiness is disconnection. Encourage exploring local holy places, as many (e.g., in London) are undervisited. Tourism reframes as frustrated pilgrimage; revival shifts back to sacred use.
 
 ## Synchronicities
-<!-- events that lined up -->
-
+[[Wholeness =? holiness]]
+[[Holy =(adjective form for)= Whole?]]
+"Holiness is connection; unholiness is disconnection." <-- More connection
+disconnection =? [[fragment]]ation
 ## Cross-References
 <!-- add related notes -->
 
 ## URL-link
-<!-- add URL  -->
+https://www.youtube.com/watch?v=gBK_plapJZA
 ## Next Actions
 <!-- ideas sparked -->
 
