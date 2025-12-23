@@ -66,6 +66,8 @@ Holy places connect heaven/earth, past/present, offering health, well-being, ins
 disconnection =? [[fragment]]ation
 ## Cross-References
 [[conductivity]]
+[[God]]
+[[meditation]]
 
 ## URL-link
 https://www.youtube.com/watch?v=gBK_plapJZA

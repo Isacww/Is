@@ -1,0 +1,7 @@
+[[God]]
+[[Bethel]]
+[[water]]
+[[pure intention]]
+[[conductivity]]
+[[oneness]]
+[[flow]]
