@@ -22,13 +22,17 @@
             }
           },
           {
-            "id": "c2b7fab3f0d12e18",
+            "id": "011018ed90481b4b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Videos/Thomas Campbell - interview - 2025-12-23.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thomas Campbell - interview - 2025-12-23"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Atlas/Videos/Thomas Campbell - interview - 2025-12-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Thomas Campbell - interview - 2025-12-23"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Atlas/Videos/Thomas Campbell - interview - 2025-12-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Thomas Campbell - interview - 2025-12-23"
             }
           },
           {
@@ -165,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Atlas/Videos/Thomas Campbell - interview - 2025-12-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Thomas Campbell - interview - 2025-12-23"
             }
           }
         ]
@@ -193,8 +200,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c2b7fab3f0d12e18",
+  "active": "011018ed90481b4b",
   "lastOpenFiles": [
+    "Journal/Thoughts/kin-domain - 2025-12-20.md",
+    "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
+    "Atlas/Articles/Lorentz Force - 2025-12-12.md",
+    "Force.md",
     "form.md",
     "Atlas/Videos/Thomas Campbell - interview - 2025-12-23.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/The human energy field - 2025-12-22.md",
@@ -208,7 +219,6 @@
     "Atlas/Books/The Holographic Model chapter notes/The mathematical language of the hologram.md",
     "Atlas/Articles/Srinivasa Ramanujan - 2025-12-22.md",
     "pattern.md",
-    "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
     "Atlas/Videos/Food forest Sweden - 2025-12-22.md",
     "Atlas/Videos/Morphic Fields - Rupert Sheldrake - 2025-12-23.md",
     "Crop circle.md",
@@ -221,9 +231,6 @@
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/The Laws of Physics both potential and real - 2025-12-22.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/Psychokinesis - 2025-12-22.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/Does the consciousness create particles or not - 2025-12-22.md",
-    "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/A Flaw in the Fabric of Reality - 2025-12-22.md",
-    "Atlas/Books/The Holographic Model chapter notes/The Undivided wholeness of all things - 2025-12-22.md",
-    "Atlas/Books/The Holographic Model chapter notes/A Living Sea of Electrons - 2025-12-22.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology",
     "Atlas/Books/The Holographic Model chapter notes",
     "attachments/Pasted image 20251220073108.png",
