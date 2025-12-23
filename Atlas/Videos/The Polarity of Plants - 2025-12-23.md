@@ -1,7 +1,9 @@
 ---
 date: 2025-12-23
 video: The Polarity of Plants
-tags: video
+tags:
+  - video
+  - plants
 ---
 
 ## Key Phrase/Quote
