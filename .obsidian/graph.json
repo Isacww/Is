@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "Quantum",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 19.757785467128,
   "linkStrength": 1,
   "linkDistance": 314,
-  "scale": 0.21122940035260465,
-  "close": true
+  "scale": 0.45330749946435867,
+  "close": false
 }

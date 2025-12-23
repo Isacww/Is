@@ -1,0 +1,3 @@
+[[wholeness]]
+[[quantum]]
+[[Quantum Ontology]]

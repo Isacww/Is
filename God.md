@@ -5,4 +5,4 @@
 [[Holy Ghost]]
 [[wholeness]]
 [[faith]]
-[[ber]]
+[[fundamental changes in beliefs]]
