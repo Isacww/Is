@@ -28,10 +28,10 @@ Ramanujan's approach was dream-inspired (he credited the goddess [[Namagiri]]), 
 		#### Ramanujan's Tau Function and Modular Discriminant
 		
 		The modular discriminant Δ(q) is expanded as:
-		
-		Δ(q)=q∏n=1∞(1−qn)24=∑n=1∞τ(n)qn//\Delta(q) = q \prod_{n=1}^{\infty} (1 - q^n)^{24} = \sum_{n=1}^{\infty} \tau(n) q^n//Δ(q)=q∏n=1∞​(1−qn)24=∑n=1∞​τ(n)qn
+		$$
+		Δ(q)=q∏n=1∞(1−qn)24=∑n=1∞τ(n)qn\Delta(q) = q \prod_{n=1}^{\infty} (1 - q^n)^{24} = \sum_{n=1}^{\infty} \tau(n) q^nΔ(q)=q∏n=1∞​(1−qn)24=∑n=1∞​τ(n)qn
+		$$
 		Where τ(n) is the tau function, with examples: τ(1) = 1, τ(2) = -24, τ(3) = 252. 
-        
         So, τ(1) = 1, τ(2) = -24, τ(3) = 252, etc.
     - **Current Interpretation**: The tau function is central to the theory of modular forms, used in studying L-functions (analytic tools for primes) and elliptic curves. Deligne proved Ramanujan's conjecture on its growth bound (|τ(p)| ≤ 2p^{11/2} for prime p) in 1974 using algebraic geometry, earning a Fields Medal. It applies in cryptography (via elliptic curve methods) and physics (counting black hole states in string theory).[math.ucla.edu](https://www.math.ucla.edu/~wdduke/preprints/ramanujan.pdf)+2 more
 2. **Congruences for the Tau Function and Partitions**:
@@ -43,16 +43,16 @@ Ramanujan's approach was dream-inspired (he credited the goddess [[Namagiri]]), 
 3. **Mock Theta Functions and Mock Modular Forms**:
     - **What He Did**: In his final letter to Hardy, Ramanujan introduced 17 "[[mock theta functions]]"—q-series that behave like theta functions (modular forms from sums of squares) but lack full modularity (symmetry under transformations).
     - **Formula Example** (Third-order mock theta f(q)):
-        
+        $$
         f(q)=∑n=0∞qn2(1+q)2(1+q2)2⋯(1+qn)2f(q) = \sum_{n=0}^{\infty} \frac{q^{n^2}}{(1+q)^2 (1+q^2)^2 \cdots (1+q^n)^2}f(q)=n=0∑∞​(1+q)2(1+q2)2⋯(1+qn)2qn2​
-        
+        $$
     - **Current Interpretation**: Proven as "mock modular forms" by [[Zwegers]] (2002), they're now seen as [[holomorphic]] parts of [[harmonic]] [[Maass forms]] (real-analytic modular forms). They count unimodal sequences in combinatorics and black hole microstates in string theory, linking to moonshine [[phenomena]] (unexpected group-modular connections). Applications include [[quantum gravity]], [[knot invariants]], and [[statistical physics]].[huffpost.com](https://www.huffpost.com/entry/ramanujans-mock-modular-forms_n_2371680)+3 more
 1. **Rogers-Ramanujan Identities**:
     - **What He Did**: These are two infinite product-series equalities relating continued fractions to partitions without consecutive integers.
     - **Formula** (First identity):
-        
+        $$
         ∑n=0∞qn2(q;q)n=∏n=1∞1(1−q5n−4)(1−q5n−1)\sum_{n=0}^{\infty} \frac{q^{n^2}}{(q;q)_n} = \prod_{n=1}^{\infty} \frac{1}{(1 - q^{5n-4})(1 - q^{5n-1})}n=0∑∞​(q;q)n​qn2​=n=1∏∞​(1−q5n−4)(1−q5n−1)1​
-        
+        $$
         where (q;q)_n is the q-Pochhammer symbol (a product avoiding certain terms).
     - **Current Interpretation**: Proven as modular form identities, they're used in representation theory (studying symmetries) and algebraic combinatorics. In physics, they model crystal lattices and conformal field theories.[math.ucla.edu](https://www.math.ucla.edu/~wdduke/preprints/ramanujan.pdf)[royalsocietypublishing.org](https://royalsocietypublishing.org/rsta/article/378/2163/20180440/111527/Ramanujan-s-influence-on-string-theory-black-holes)
 
@@ -70,7 +70,7 @@ from Google scholar: https://books.google.se/books?hl=sv&lr=&id=h1G2CgAAQBAJ&oi=
 <!-- events that lined up -->
 
 ## Cross-References
-<!-- add related notes -->
+I believe this is highly related to [[continuum]] and [[holographic]] perspective and [[chaos pattern]]s
 
 ## Next Actions
 <!-- ideas sparked -->
