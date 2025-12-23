@@ -14,7 +14,7 @@ The concept is repeated as an explanation for various [[phenomena]], emphasizing
 
 ### Critique of Genes and Materialism
 
-Genes are criticized as inadequate for explaining [[form]]; they provide proteins but not the "architectural plan," like building materials without a blueprint. Self-assembly is assumed but unproven. Epigenetics involves inheriting gene activation patterns from ancestors, but much is attributed to morphic resonance, including inheritance of acquired characteristics. The Human Genome Project disappointed with fewer genes than expected (~20,000, less than half of a rice plant's), predicting only 5-10% of traits like breast cancer or [[schizophrenia]], despite 80-90% heritability, leading to the "missing heritability" problem. Mechanistic materialism is inadequate; a paradigm shift is needed to view nature as alive, organic, and interconnected like an organism, not a machine. _The Science Delusion_ critiques 10 dogmas, such as laws being fixed and matter unconscious. Consciousness is pervasive and primary, with the universe emerging from consciousness.
+Genes are criticized as inadequate for explaining [[form]]; they provide proteins but not the "architectural plan," like building materials without a blueprint. Self-assembly is assumed but unproven. Epigenetics involves inheriting gene activation patterns from ancestors, but much is attributed to morphic resonance, including inheritance of acquired characteristics. The Human Genome Project disappointed with fewer genes than expected (~20,000, less than half of a rice plant's), predicting only 5-10% of traits like breast cancer or [[schizophrenia]], despite 80-90% heritability, leading to the "missing heritability" problem. Mechanistic materialism is inadequate; a paradigm shift is needed to view nature as alive, organic, and interconnected like an organism, not a machine. _The Science Delusion_ critiques 10 dogmas, such as laws being fixed and [[matter]] unconscious. Consciousness is pervasive and primary, with the [[universe]] emerging from [[consciousness]].
 
 ### Examples and Evidence of Morphic Resonance
 
@@ -22,15 +22,15 @@ Examples include rats learning mazes faster due to resonance; experiments showed
 
 ### Laws of Nature and Evolutionary Universe
 
-Laws of nature are not fixed but evolve as habits; successful patterns are repeated and become fixed. New systems like lab-created compounds or Bose-Einstein condensates show resonance as they are novel. The assumption of eternal laws leads to miracles (universe from nothing) and absurdities (fine-tuning implying God or multiverses). An evolutionary universe with evolving habits is proposed instead. Constants like the speed of light or gravitational constant G vary slightly over time, with G varying ~1% recently.
+Laws of nature are not fixed but evolve as habits; successful patterns are repeated and become fixed. New systems like lab-created compounds or Bose-Einstein condensates show resonance as they are novel. The assumption of eternal laws leads to [[miracle]]s ([[universe]] from nothing) and absurdities (fine-tuning implying [[God]] or multiverses). An evolutionary universe with evolving habits is proposed instead. Constants like the speed of light or gravitational constant G vary slightly over time, with G varying ~1% recently.
 
 ### Brain, Mind, and Consciousness
 
-The brain is a tuning system, not memory storage; it coordinates perceptions, senses, movements, and speech. Minds stretch like fields beyond brains (e.g., magnetic or gravitational fields). Vision projects images outward, not contained in the brain. Brain tunes via resonance across time, like a TV set to signals. No material memory traces are found in the brain despite searches; memory is via resonance. Consciousness is not confined to the brain; it extends in perception, dreams (with inner light and dream bodies), and psychedelic experiences. The brain is essential but overrated—changes affect consciousness but do not confine it. Mind at large includes cosmic mind in Earth, sun, stars, galaxy, and cosmos (Plato's anima mundi); divine mind is transcendent if pantheist God is cosmic mind. Consciousness is centered in the body when waking but in virtual realms during dreams or psychedelics. Collective mind/memory occurs via morphic resonance; individuals participate in the collective unconscious as expressions of collective memory.
+The [[brain]] is a tuning system, not memory storage; it coordinates perceptions, senses, movements, and speech. Minds stretch like fields beyond brains (e.g., magnetic or gravitational fields). Vision projects images outward, not contained in the brain. Brain tunes via resonance across time, like a TV set to signals. No material memory traces are found in the brain despite searches; memory is via resonance. Consciousness is not confined to the brain; it extends in perception, [[dream]]s (with inner light and dream bodies), and psychedelic experiences. The brain is essential but overrated—changes affect consciousness but do not confine it. Mind at large includes cosmic [[mind]] in Earth, [[sun]], stars, galaxy, and cosmos ([[Plato's anima mundi]]); divine mind is transcendent if pantheist God is cosmic mind. Consciousness is centered in the body when waking but in virtual realms during dreams or psychedelics. Collective mind/memory occurs via morphic resonance; individuals participate in the collective unconscious as expressions of collective memory.
 
 ### Electrical and Social Fields
 
-Electrical polarity is underexplored but mentioned in germinating spores/eggs between root and shoot parts. Plants exist in Earth's electric field, with trees conducting electricity and becoming negatively charged at tips. Social fields are for groups like families (inherited patterns visible in systemic constellations), sports teams (coordinate moods), bands/orchestras/choirs (rituals connect to past), and religions. Intuition and telepathy occur within groups via resonance (e.g., dogs sensing owners' return, telephone telepathy). Thoughts and emotions are not solely individual; they share in collective moods via resonance in social groups (e.g., flocks changing direction, panic spreading).
+[[electrical polarity]] is underexplored but mentioned in germinating spores/[[egg]]s between root and shoot parts. Plants exist in Earth's electric field, with trees conducting electricity and becoming negatively charged at tips. Social fields are for groups like families (inherited patterns visible in systemic constellations), sports teams (coordinate moods), bands/orchestras/choirs (rituals connect to past), and religions. Intuition and telepathy occur within groups via resonance (e.g., dogs sensing owners' return, telephone telepathy). Thoughts and emotions are not solely individual; they share in collective moods via resonance in social groups (e.g., flocks changing direction, panic spreading).
 
 ### Paradigm Change and Advice
 
@@ -39,6 +39,9 @@ Mechanistic materialism is inadequate; nature should be viewed as alive and inte
 "Morphogenetic fields are form-shaping fields that are top-down and holistic, like invisible molds or patterns shaping a developing leaf. They are compared to magnetic fields, retaining wholeness when divided." 
 - This is a crazy amount of interconnections. 
 - To "invisible molds" --> [[hologram]], "retaining wholeness when divided" --> [[holographic]]
+[["faster learning via resonance"]]
+- this refers to collective consciousness and memory
+"No material memory traces are found in the brain despite searches; memory is via resonance."
 
 ## Synchronicities
 <!-- events that lined up -->
@@ -47,6 +50,7 @@ Mechanistic materialism is inadequate; nature should be viewed as alive and inte
 [[collective unconsciousness]]
 [[collective memory through morphic resonance]]
 [[morphogenetic fields]]
+[[interconnectedness]]
 
 ## URL-link
 <!-- add URL  -->
