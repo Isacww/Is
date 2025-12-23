@@ -30,7 +30,7 @@ The [[brain]] is a tuning system, not memory storage; it coordinates perceptions
 
 ### Electrical and Social Fields
 
-[[electrical polarity]] is underexplored but mentioned in germinating spores/[[egg]]s between root and shoot parts. Plants exist in Earth's [[electric field]], with trees [[conduct]]ing electricity and becoming negatively charged at tips. Social fields are for groups like families (inherited patterns visible in systemic constellations), sports teams (coordinate moods), bands/orchestras/choirs (rituals connect to past), and religions. Intuition and [[telepathy]] occur within groups via resonance (e.g., dogs sensing owners' return, telephone telepathy). Thoughts and emotions are not solely individual; they share in collective moods via resonance in social groups (e.g., flocks changing direction, panic spreading).
+[[electrical polarity]] is underexplored but mentioned in germinating spores/[[egg]]s between root and shoot parts. Plants exist in Earth's [[electric field]], with trees conducting electricity and becoming negatively charged at tips. Social fields are for groups like families (inherited patterns visible in systemic constellations), sports teams (coordinate moods), bands/orchestras/choirs (rituals connect to past), and religions. Intuition and [[telepathy]] occur within groups via resonance (e.g., dogs sensing owners' return, telephone telepathy). Thoughts and emotions are not solely individual; they share in collective moods via resonance in social groups (e.g., flocks changing direction, panic spreading).
 
 ### Paradigm Change and Advice
 
@@ -51,6 +51,7 @@ Mechanistic materialism is inadequate; nature should be viewed as alive and inte
 [[collective memory through morphic resonance]]
 [[morphogenetic fields]]
 [[interconnectedness]]
+[[conductivity]]
 
 ## URL-link
 https://www.youtube.com/watch?v=qrIlWrGe4w4

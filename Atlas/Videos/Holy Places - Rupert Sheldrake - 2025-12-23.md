@@ -29,7 +29,7 @@ Burial places evolved into pilgrimage focuses with saints' relics from the 3rd c
 
 ### Physical Energy and Lightning
 
-Holy places with spires and [[obelisks]] [[attract]] lightning ([[attract lightning]]), channeling energy from the heavens. Lightning connects clouds to earth via "[[streamers]]" from the ground meeting discharges from above, influenced by [[solar flares]] and the [[solar wind]] affecting Earth's [[magnetosphere]]. Higher places are struck more, hence lightning [[conduct]]ors on towers. In old landscapes, church spires were the tallest structures, channeling this energy. In modern cities like London, lightning goes to commercial towers, but churches could measure strikes with devices for research.
+Holy places with spires and [[obelisks]] [[attract]] lightning ([[attract lightning]]), channeling energy from the heavens. Lightning connects clouds to earth via "[[streamers]]" from the ground meeting discharges from above, influenced by [[solar flares]] and the [[solar wind]] affecting Earth's [[magnetosphere]]. Higher places are struck more, hence [[lightning]] conductors on towers. In old landscapes, church spires were the tallest structures, channeling this energy. In modern cities like London, lightning goes to commercial towers, but churches could measure strikes with devices for research.
 
 ### Pilgrimage as Ancient Practice
 
@@ -65,7 +65,7 @@ Holy places connect heaven/earth, past/present, offering health, well-being, ins
 "Holiness is connection; unholiness is disconnection." <-- More connection
 disconnection =? [[fragment]]ation
 ## Cross-References
-<!-- add related notes -->
+[[conductivity]]
 
 ## URL-link
 https://www.youtube.com/watch?v=gBK_plapJZA

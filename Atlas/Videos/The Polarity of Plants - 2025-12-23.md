@@ -14,7 +14,7 @@ tags:
 ## Notes on "Plant Polarity" Video by Rupert Sheldrake
 
 ### Introduction to Plant Polarity
-The speaker, Rupert Sheldrake, introduces his interest in plant [[polarity]], which he has studied for over 50 years since childhood. He became fascinated during his undergraduate studies at Cambridge by the ideas of [[Goethe]], a German poet and scientist who was interested in polarities in nature, including those in plants. Polarity in plants is evident between roots and shoots, as shoots grow toward light and against gravity while roots grow toward darkness and down. There is also polarity within leaves, between top and bottom or left and right, but the primary polarity is root-shoot.
+The speaker, Rupert Sheldrake, introduces his interest in plant [[polarity]], which he has studied for over 50 years since childhood. He became fascinated during his undergraduate studies at Cambridge by the ideas of [[Goethe]], a German poet and scientist who was interested in polarities in nature, including those in plants. Polarity in plants is evident between roots and shoots, as shoots grow toward light and against [[gravity]] while roots grow toward darkness and down. There is also polarity within leaves, between top and bottom or left and right, but the primary polarity is root-shoot.
 
 ### Regeneration and Intrinsic Polarity
 When parts of a plant are cut, they regenerate in a polar manner. For example, a pollarded willow tree shows new shoots emerging higher up the trunk, with none at the base, demonstrating polar behavior. If a willow branch is cut into pieces, each segment regenerates with roots at the basal end (closest to the original roots) and shoots at the apical end. This [[intrinsic]] polarity persists even when detached, similar to magnets: a [[magnet]] broken in half retains polarity in each piece, with the whole's polarity expressed in the parts.
@@ -41,16 +41,17 @@ In inverted cuttings (e.g., tomato plants grown upside down with roots at apical
 In simpler systems, Sheldrake studied the bird's nest fern (Asplenium nidus) protonema (threadlike structure from germinating spores), a single file of cells with rhizoid (rootlike) at base and growing tip. Polarity is evident: cutting the tip causes side branching (apical dominance). Using [[plasmolysis]] (shrinking cells in sugar/salt solutions like mannitol), cells detach from basal walls and remain attached to apical walls, showing differential membrane attachment. Different substances (e.g., mannitol, magnesium sulfate) enhance polar plasmolysis toward apex, while others (e.g., potassium nitrate) are less effective, indicating variable attachment influenced by [[ions]].
 
 ### Electrical Polarity
-Electrical polarity is underexplored. Germinating spores/eggs show [[electrical polarity]] between root and shoot parts. Plants exist in Earth's [[electric field]] (negative ground vs. positive atmosphere, ~100V/m [[gradient]]). Trees conduct electricity via sap, becoming negatively charged tips attracting ions. Recent studies on flowers show petal gradients, with positive [[particle]]s adhering to negative tips. Leaves likely have similar gradients, potentially setting up auxin transport polarity. Initial polarity establishment may involve electric gradients, an open question; experiments suggested (e.g., spraying charged particles on leaves) to test this.
+Electrical polarity is underexplored. Germinating spores/[[egg]]s show [[electrical polarity]] between root and shoot parts. Plants exist in Earth's [[electric field]] (negative ground vs. positive atmosphere, ~100V/m [[gradient]]). Trees conduct electricity via sap, becoming negatively charged tips attracting ions. Recent studies on flowers show petal gradients, with positive [[particle]]s adhering to negative tips. Leaves likely have similar gradients, potentially setting up auxin transport polarity. Initial polarity establishment may involve electric gradients, an open question; experiments suggested (e.g., spraying charged particles on leaves) to test this.
 ![[Pasted image 20251223174945.png]]
 ![[Pasted image 20251223175219.png]]
-The talk concludes that while auxin transport details (including molecular levels, from work with Philip Rubery) are known, initial polarity origins remain unknown, with electricity possibly key. More on polar auxin transport in future talks.
+The talk concludes that while auxin transport details (including molecular levels, from work with Philip Rubery) are known, initial polarity origins remain unknown, with [[electricity]] possibly key. More on polar auxin transport in future talks.
 
 ## Synchronicities
 <!-- events that lined up -->
 
 ## Cross-References
-This is strongly hinting towards what Anastasia is saying in the "Ringing Cedars", implying the huge information flow out of tips of trees, especially [[cedar]] trees.
+This is strongly hinting towards what Anastasia is saying in the "Ringing Cedars", implying the huge [[information]] [[flow]] out of tips of trees, especially [[cedar]] trees.
+[[conductivity]]
 
 ## URL-link
 https://www.youtube.com/watch?v=6xHF1WB1loU

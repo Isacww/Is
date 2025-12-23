@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "conduct",
+  "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 19.757785467128,
   "linkStrength": 1,
   "linkDistance": 314,
-  "scale": 0.555186035132309,
-  "close": false
+  "scale": 0.26579047478669854,
+  "close": true
 }
