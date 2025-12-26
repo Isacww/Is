@@ -25,10 +25,14 @@
             "id": "90dd47c17922f282",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Thoughts/tarot reading - 2025-12-26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tarot reading - 2025-12-26"
             }
           }
         ],
@@ -105,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Journal/Thoughts/tarot reading - 2025-12-26.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for tarot reading - 2025-12-26"
             }
           },
           {
@@ -123,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Journal/Thoughts/tarot reading - 2025-12-26.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from tarot reading - 2025-12-26"
             }
           },
           {
@@ -165,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Journal/Thoughts/tarot reading - 2025-12-26.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of tarot reading - 2025-12-26"
             }
           }
         ]
@@ -195,6 +202,7 @@
   },
   "active": "90dd47c17922f282",
   "lastOpenFiles": [
+    "Journal/Thoughts/tarot reading - 2025-12-26.md",
     "mind.md",
     "dream.md",
     "oneness.md",
@@ -220,7 +228,6 @@
     "Atlas/Videos/Morphic Fields - Rupert Sheldrake - 2025-12-23.md",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology/Seeing Holographically - 2025-12-22.md",
     "field.md",
-    "forest.md",
     "attachments/Pasted image 20251223182231.png",
     "attachments/Pasted image 20251223175219.png",
     "attachments/Pasted image 20251223174945.png",
