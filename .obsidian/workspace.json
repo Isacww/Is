@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a09824537b07fbe2",
+        "id": "9b94b9cc6d14e523",
         "type": "tabs",
         "children": [
           {
-            "id": "bb82b7b43f8c5349",
+            "id": "33ba01823e37dac4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Orgone.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Orgone"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Orgone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Orgone"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Orgone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Orgone"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Orgone.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Orgone"
             }
           }
         ]
@@ -178,8 +185,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb82b7b43f8c5349",
+  "active": "33ba01823e37dac4",
   "lastOpenFiles": [
+    "Orgone.md",
+    "Ch'i.md",
     "Atlas/Videos/Fractal geometry and golden mean ratio - Dan Winter - 2025-12-27.md",
     "Atlas/Videos/Emergent Complexity - 2025-12-27.md",
     "Atlas/Videos/Creatures in higher dimensions - 2025-12-27.md",
@@ -208,8 +217,6 @@
     "sun.md",
     "egg.md",
     "water.md",
-    "energy.md",
-    "memorize.md",
     "attachments/Pasted image 20251223182231.png",
     "attachments/Pasted image 20251223175219.png",
     "attachments/Pasted image 20251223174945.png",

@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "ch'i",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 19.757785467128,
   "linkStrength": 1,
   "linkDistance": 314,
-  "scale": 0.1833863457698022,
-  "close": true
+  "scale": 0.4253597178302251,
+  "close": false
 }
