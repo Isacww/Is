@@ -1,7 +1,10 @@
 ---
 date: 2025-12-27
 video: Emergent Compplexity
-tags: video
+tags:
+  - video
+  - math
+  - pattern
 ---
 
 ## Key Phrase/Quote
@@ -38,15 +41,15 @@ Wolfram classified 1D automata rules (e.g., rule 30) into four categories based 
 Categories applicable to real systems; not universal (e.g., water transitions phases). Phase transitions: sudden complexity at [[tipping points]] (e.g., water boiling at 100°C).
 
 ### Emergent Simplicity and Predictability
-Complexity ≠ [[information]]/[[entropy]] (max entropy is random, not organized). Organized complexity implies "[[emergent simplicity]]": higher-level thing simpler than parts (e.g., baseball as sphere with mass/force, simpler than atoms yet more complex overall due to organization). Stable structures (gliders) form higher building blocks.
+Complexity ≠ [[information]]/[[entropy]] (max entropy is random, not organized). Organized complexity implies "[[emergent simplicity]]": higher-level thing simpler than parts (e.g., baseball as sphere with mass/[[force]], simpler than atoms yet more complex overall due to [[organization]]). Stable structures (gliders) [[form]] higher building blocks.
 
-Rules/blocks need not be simple; complex rules can yield more complexity. Universe's quantum rules are complex, birthing everything.
+Rules/blocks need not be simple; complex rules can yield more complexity. Universe's [[quantum]] rules are complex, birthing everything.
 
-Predicting hard: e.g., rule 30 center cell after steps—$30,000 prize unsolved. Systems "computationally irreducible": can't shortcut simulation.
+Predicting hard: e.g., rule 30 center cell after steps—$30,000 prize unsolved. Systems "computationally [[irreducible]]": can't shortcut simulation.
 
-Chaos theory: sensitive to initial conditions (butterfly effect: tiny change causes divergence, e.g., one cell flips outcome). Simulations inaccurate for chaotic systems.
+Chaos theory: sensitive to initial conditions (butterfly effect: tiny change causes [[divergence]], e.g., one cell flips outcome). Simulations inaccurate for chaotic systems.
 
-Wolfram's "A New Kind of Science": simple programs show irreducibility; universe as algorithm (not simulation), with "pockets of reducibility." Wolfram Physics Project: hypergraph simulations for universes.
+Wolfram's "A New Kind of Science": simple programs show irreducibility; universe as algorithm (not simulation), with "pockets of reducibility." Wolfram Physics Project: [[hypergraph]] simulations for universes.
 
 Wolfram controversial: independent, claims without review, but thought-provoking. Appreciate complexity, expect unexpected.
 
@@ -57,7 +60,7 @@ Direct build complex, but for self-organizing: hands-off. Examples: simulations,
 
 Advice: experiment, trial/error, iterate. Evolutionary approach: vary best, select. Relax control for surprises.
 
-Hard to create intentionally; keep making, surprises come. Sacrifices control: unintended consequences (control problem). Tweak rules post-emergence (nerf/buff).
+Hard to create intentionally; keep making, surprises come. Sacrifices control: [[unintended consequences]] (control problem). Tweak rules post-emergence (nerf/buff).
 
 Worth it: more out than in (e.g., chess strategies emerged). "You design a little bit and emergence designs the rest."
 

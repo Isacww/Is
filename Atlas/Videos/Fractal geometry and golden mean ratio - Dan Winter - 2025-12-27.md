@@ -9,16 +9,16 @@ tags: video
 
 ## My Connection
 Weird, I gave Grok a video about the phenomena of emerging and got this video instead.
-
+Not even accessable on the link given...
 ## Notes on "Dan Winter - Fractal Geometry & The Golden Mean Ratio" Video[](https://www.youtube.com/watch?v=0Hq1WB1loU&referrer=grok.com)
 
 ### Introduction to Golden Ratio and Fractal Geometry
 
-Dan Winter begins by explaining the golden ratio as a fundamental solution in nature, stating, "golden ratio is by equation the solution." He describes it as the key to perfect branching and embedding, where forms nest in self-similar patterns. The golden mean is the ratio where the small part to the large is the same as the large to the whole, enabling infinite compression without loss. This is repeated as the "principle of perfect wave nesting," allowing waves to add and multiply constructively, creating fractals. Fractals are self-similar shapes at every scale, like a fern leaf mirroring the whole plant. Winter emphasizes that the golden ratio enables "infinite non-destructive compression," which is the essence of fractal geometry in biology and physics.
+[[Dan Winter]] begins by explaining the [[golden ratio]] as a [[fundamental]] solution in [[nature]], stating, "golden ratio is by [[equation]] the solution." He describes it as the [[key]] to perfect [[branching]] and [[embedding]], where [[form]]s nest in [[self-similar patterns]]. The golden mean is the ratio where the small part to the large is the same as the large to the whole, enabling infinite [[compression]] without loss. This is repeated as the "principle of perfect [[wave]] nesting," allowing waves to add and multiply constructively ([[constructive]]), creating [[fractal]]s. Fractals are self-similar shapes at every scale, like a [[fern leaf mirroring the whole plant]]. Winter emphasizes that the golden ratio enables "[[infinite non-destructive compression]]," which is the essence of [[fractal geometry]] in [[biology]] and [[physics]].
 
 ### Golden Ratio in Biology and DNA
 
-Winter discusses the golden ratio in biological structures, particularly DNA, saying, "DNA's braided structure follows the golden mean spiral, allowing it to be a phase conjugate dielectric." He explains that DNA's helical twist is a golden mean path, enabling charge to implode and distribute efficiently, like a "lightning rod for bliss." This is linked to kundalini energy as a "charge wave" up the spine, following the same ratio. Repetitions on biology: the ratio appears in heart muscle layering (7 layers at golden angles for efficient pumping) and pine cones/seeds (arranged in golden spirals for maximum packing). He notes, "the golden mean is the only ratio that allows waves to add and multiply without interference," making it the "geometry of compassion" in living systems.
+Winter discusses the golden ratio in biological structures, particularly [[DNA]], saying, "DNA's braided structure follows the golden mean [[spiral]][[golden , allowing it to be a phase conjugate dielectric." He explains that DNA's helical twist is a golden mean path, enabling charge to implode and distribute efficiently, like a "lightning rod for bliss." This is linked to kundalini energy as a "charge wave" up the spine, following the same ratio. Repetitions on biology: the ratio appears in heart muscle layering (7 layers at golden angles for efficient pumping) and pine cones/seeds (arranged in golden spirals for maximum packing). He notes, "the golden mean is the only ratio that allows waves to add and multiply without interference," making it the "geometry of compassion" in living systems.
 
 ### Implosion, Charge, and Vortex Phenomena
 
