@@ -4,7 +4,7 @@ Thought: tarot reading
 tags: thought
 ---
 ## My Connection
-christmas time with mom.
+christmas time with mom. first ever tarot reading by myself ever.
 
 ## The reading gave:
 * 4 of cups
