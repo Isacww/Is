@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aether.md",
+                "file": "kundalini.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aether"
+              "title": "kundalini"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "aether.md",
+                "file": "kundalini.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aether"
+              "title": "Backlinks for kundalini"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "aether.md",
+                "file": "kundalini.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from aether"
+              "title": "Outgoing links from kundalini"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "aether.md",
+                "file": "kundalini.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aether"
+              "title": "Outline of kundalini"
             }
           }
         ]
@@ -187,8 +187,11 @@
   },
   "active": "33ba01823e37dac4",
   "lastOpenFiles": [
-    "orgone.md",
+    "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
+    "kundalini.md",
+    "quantum wholeness.md",
     "aether.md",
+    "orgone.md",
     "prana.md",
     "Ch'i.md",
     "Atlas/Videos/Fractal geometry and golden mean ratio - Dan Winter - 2025-12-27.md",
@@ -196,7 +199,6 @@
     "Atlas/Videos/Creatures in higher dimensions - 2025-12-27.md",
     "Atlas/Videos/Thomas Campbell - interview - 2025-12-23.md",
     "Journal/Thoughts/tarot reading - 2025-12-26.md",
-    "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
     "dream.md",
     "Atlas/Videos/Holy Places - Rupert Sheldrake - 2025-12-23.md",
     "attachments/Pasted image 20251226201518.png",
@@ -212,11 +214,9 @@
     "Jesus.md",
     "India.md",
     "Sadhguru.md",
-    "quantum wholeness.md",
     "Atlas/Books/The Holographic Model chapter notes/Consciousness as a more subtle form of matter - 2025-12-22.md",
     "wave.md",
     "Fourier.md",
-    "sun.md",
     "attachments/Pasted image 20251223182231.png",
     "attachments/Pasted image 20251223175219.png",
     "attachments/Pasted image 20251223174945.png",
