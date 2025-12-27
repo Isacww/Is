@@ -1,7 +1,10 @@
 ---
 date: 2025-12-27
 video: Creatures in higher dimensions
-tags: video
+tags:
+  - video
+  - math
+  - pattern
 ---
 
 ## Key Phrase/Quote
@@ -28,9 +31,9 @@ The "zoo" is a collection of pre-made functions demonstrating diverse "creatures
 Functions evoke [[biological emergence]], with [[parameters as "genes"]] in a genotype-phenotype system. The video ties this to evolution exploring parameter spaces, creating diverse forms without direct design. This is repeated as a "mathematical zoo," suggesting deeper connections between math and life, with [[form]]s resembling natural creatures.
 
 ### Tool and Practical Applications
-The hyperspace toy is an interactive tool for creating functions, with source code available. It allows programming logic like loops or [[random]]ness to generate [[fractal]]s or turbulence. This is repeated as a way to "grow your own emergent garden," blending math with creative exploration.
+The hyperspace toy is an interactive tool for creating functions, with source code available. It allows programming logic like loops or [[random]]ness to generate [[fractal]]s or turbulence. This is repeated as a way to "grow your own emergent garden," blending [[math]] with creative exploration.
 
-The video's narrative builds from basic functions to hyperspace visualization, portraying math as a tool for discovering complex, life-like patterns. It's inspirational, with animations illustrating concepts, and concludes with an invitation to experiment.
+The video's narrative builds from basic functions to hyperspace visualization, portraying math as a tool for discovering complex, life-like [[pattern]]s. It's inspirational, with animations illustrating concepts, and concludes with an invitation to experiment.
 ## Synchronicities
 <!-- events that lined up -->
 
