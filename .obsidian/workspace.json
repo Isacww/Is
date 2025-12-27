@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Orgone.md",
+                "file": "prana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orgone"
+              "title": "prana"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Orgone.md",
+                "file": "prana.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Orgone"
+              "title": "Backlinks for prana"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Orgone.md",
+                "file": "prana.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Orgone"
+              "title": "Outgoing links from prana"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Orgone.md",
+                "file": "prana.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Orgone"
+              "title": "Outline of prana"
             }
           }
         ]
@@ -187,7 +187,8 @@
   },
   "active": "33ba01823e37dac4",
   "lastOpenFiles": [
-    "Orgone.md",
+    "orgone.md",
+    "prana.md",
     "Ch'i.md",
     "Atlas/Videos/Fractal geometry and golden mean ratio - Dan Winter - 2025-12-27.md",
     "Atlas/Videos/Emergent Complexity - 2025-12-27.md",
@@ -216,7 +217,6 @@
     "Fourier.md",
     "sun.md",
     "egg.md",
-    "water.md",
     "attachments/Pasted image 20251223182231.png",
     "attachments/Pasted image 20251223175219.png",
     "attachments/Pasted image 20251223174945.png",
