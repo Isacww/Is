@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d5f2daf2280533f0",
+        "id": "d789816c8f5a6cac",
         "type": "tabs",
         "children": [
           {
-            "id": "b0afaef67b9f43ec",
+            "id": "1c2db97325c97354",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "astral.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "astral"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "astral.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for astral"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "astral.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from astral"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "astral.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of astral"
+              "title": "Outline"
             }
           }
         ]
@@ -185,11 +178,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b0afaef67b9f43ec",
+  "active": "1c2db97325c97354",
   "lastOpenFiles": [
+    "astral.md",
     "divine energy.md",
     "mana.md",
-    "astral.md",
     "aether.md",
     "prana.md",
     "orgone.md",
