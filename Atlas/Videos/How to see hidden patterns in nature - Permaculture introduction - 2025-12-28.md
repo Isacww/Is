@@ -31,10 +31,14 @@ The flow undulates between [["concentration and dispersion":]] in steep canyons,
 The core model is expanded to map whole landscapes: Earth's landmasses are essentially "interlocking core model watersheds," a matrix of nested drainage systems that define terrain. Understanding this "invisible pattern" helps position any site within the bigger picture—identifying dominant [[force]]s like where soil deposits build up, water moves fast or slow, erosion carves deep, or fertility accumulates in low spots vs. high ridges. This informs practical things like soil quality, water availability, wildlife [[habit]]ats, and even farming or gardening potential, as certain positions in the watershed favor different uses.
 
 In [[permaculture]] (a design system founded by [[Bill Mollison]]), this model is foundational for working "harmoniously with natural patterns" rather than against them, creating sustainable systems that mimic nature's efficiency. The speaker references Mollison's "Permaculture Designer's Manual" (page 73) for a deeper dive into spirals and [[vortices]], suggesting it's a key resource for applying the model. This section repeats the idea of the pattern as a "big secret" everyone lives within but often overlooks, turning ordinary views into insightful maps.
+![[Pasted image 20251228130218.png]]
 
 ### Visual Demonstrations and Analogies
 Throughout, the video uses simple drawings and animations to demonstrate: side and top-down views show nutrient spirals in trees twisting around the trunk; the torus (doughnut) shape illustrates the recycling vortex, with energy flowing in loops. Analogies make it relatable: the tree as a "detonation of energy" like an explosion in slow motion; vascular flow as "streamlines" like air currents in a wind tunnel; the canopy as a "giant net" catching airborne "groceries"; watersheds as "scaled-up trees" with mountains as the "canopy" collecting precipitation instead of dew. No major repetitions here, but the visuals reinforce the spiral-vortex theme across scales, making abstract ideas tangible.
 
+![[Pasted image 20251228125944.png]]
+![[Pasted image 20251228130035.png]]
+![[Pasted image 20251228130120.png]]
 ## Synchronicities
 <!-- events that lined up -->
 
