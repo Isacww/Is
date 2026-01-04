@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "How to see hidden patterns in nature - Permaculture introduction - 2025-12-28"
             }
+          },
+          {
+            "id": "bfb31293ccd0785e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,14 +195,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c2db97325c97354",
+  "active": "bfb31293ccd0785e",
   "lastOpenFiles": [
+    "Atlas/Videos/How to see hidden patterns in nature - Permaculture introduction - 2025-12-28.md",
     "attachments/Pasted image 20251228130218.png",
     "attachments/Pasted image 20251228130120.png",
     "attachments/Pasted image 20251228130035.png",
     "attachments/Pasted image 20251228125944.png",
     "Atlas/Videos/I am Rey - 2025-12-28.md",
-    "Atlas/Videos/How to see hidden patterns in nature - Permaculture introduction - 2025-12-28.md",
     "astral.md",
     "divine energy.md",
     "mana.md",
@@ -221,7 +232,6 @@
     "Holy Ghost.md",
     "attachments/Pasted image 20251223182231.png",
     "attachments/Pasted image 20251223175219.png",
-    "attachments/Pasted image 20251223174945.png",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology",
     "Atlas/Books/The Holographic Model chapter notes",
     "Journal/Thoughts/Untitled",
