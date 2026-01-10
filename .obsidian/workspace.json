@@ -25,10 +25,14 @@
             "id": "bfb31293ccd0785e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Atlas/Books/Kvarlevan av esséerna Del 1 - Edgar Cayce - 2026-01-10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kvarlevan av esséerna Del 1 - Edgar Cayce - 2026-01-10"
             }
           }
         ],
@@ -197,6 +201,7 @@
   },
   "active": "bfb31293ccd0785e",
   "lastOpenFiles": [
+    "Atlas/Books/Kvarlevan av esséerna Del 1 - Edgar Cayce - 2026-01-10.md",
     "Atlas/Videos/How to see hidden patterns in nature - Permaculture introduction - 2025-12-28.md",
     "attachments/Pasted image 20251228130218.png",
     "attachments/Pasted image 20251228130120.png",
