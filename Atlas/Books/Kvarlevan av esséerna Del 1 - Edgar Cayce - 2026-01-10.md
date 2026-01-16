@@ -19,7 +19,9 @@ The hiarky in the group of practising priests and teachlings where in clear form
 
 One sidenote that was very prominent in the first part of the book - [[cedar]] tree, was strange how much emphasis was put on the material for the temple and doors and so on, which all way cedar tree. This was immediately noticed and was making me think about what was said about this in [[Ringing Cedars]] book series. There is something about this that is not disclosed, lost knowledge.
 
+One part in the story that had an impact on me, was when the person Enos, father figure to one of the 3 girls, Judith, the book has as main characters. He was the leader over them and was dying of old age, and she and some more could sense of even "see the moment of his death". Then there was this very wholesome moment with all of them together in the sun, he rolled out in his bed and he had a speech. This is my translation of it: 
 
+"""Enos and the girls had completely forhot about the audience around them. Enos spoke and hit shaking voice was heard clearly over the whole courtyard. The girls were rapt and their 
 ## Synchronicities
 <!-- events that lined up -->
 
