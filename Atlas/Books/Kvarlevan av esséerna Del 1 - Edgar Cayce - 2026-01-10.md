@@ -33,7 +33,15 @@ The tone of Enos voice weaved a magical net of peace. The breeze dies our and th
 
 "Is it decided by destiny for every spiritual being to end up becoming one with the creator?"
 
--"Unless a being wants to be exiled. Like with human, through recieving a could also recieved a will that either could manifest the spiritual or the materialistic in the being. With the will, the being can either spiritually or physically, exile itself. God has not wished that any soul should perish. He gave the will to his creation, human, so that one would be able to become one with Him. Because the meaning of the concept of destiny and law, so is done possible for human through to accommodate the law, to become the law. For the will is the factor that gives the possibility to choose that is development or delay. Like we have so often implied, that it is now today submitted for you, for every soul-being, that is life or death, good"
+-"Unless a being wants to be exiled. Like with human, through recieving a could also recieved a will that either could manifest the spiritual or the materialistic in the being. With the will, the being can either spiritually or physically, exile itself. God has not wished that any soul should perish. He gave the will to his creation, human, so that one would be able to become one with Him. Because the meaning of the concept of destiny and law, so is done possible for human through to accommodate the law, to become the law. For the will is the factor that gives the possibility to choose that is development or delay. Like we have so often implied, that it is now today submitted for you, for every soul-being, that is life or death, good or evil. Every soul chooses its path and its way to express itself."
+
+"What is the reason for the creation?"
+
+-"Gods longing for company and a way to be able to express himself."
+
+"Was it originally meant that the souls would remain in earthly forms?"
+
+-"The earth and its utterances were only Gods expression and not necessarily like a rental location for human souls, until human was created to be able to meet 
 ## Synchronicities
 <!-- events that lined up -->
 
