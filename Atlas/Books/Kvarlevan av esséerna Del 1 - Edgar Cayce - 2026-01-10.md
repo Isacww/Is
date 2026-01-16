@@ -41,7 +41,11 @@ The tone of Enos voice weaved a magical net of peace. The breeze dies our and th
 
 "Was it originally meant that the souls would remain in earthly forms?"
 
--"The earth and its utterances were only Gods expression and not necessarily like a rental location for human souls, until human was created to be able to meet 
+-"The earth and its utterances were only Gods expression and not necessarily like a rental location for human souls, until human was created to be able to meet the needs of existing state."
+
+Maria (Maria Jesus mom) shyly moved Enos's hand and her voice was as melodical as a silver watch in the clear morning air:
+"Is the soul, in its birth, conscious about the physical bodies destiny?"
+-"God himself do not know what human will decide for itself to do with itself, otherwise He could have regretted that He had created the human! He gave humans free will, so that it decides itself what to do with its body! Human can bear with itself an ideal in the moment of birth that can determine the destiny. As soon as the humans start to ponder over their own free will, they think about it as a mean to do the opposite 
 ## Synchronicities
 <!-- events that lined up -->
 
