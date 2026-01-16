@@ -21,12 +21,12 @@ One sidenote that was very prominent in the first part of the book - [[cedar]] t
 
 One part in the story that had an impact on me, was when the person Enos, father figure to one of the 3 girls, Judith, the book has as main characters. He was the leader over them and was dying of old age, and she and some more could sense of even "see the moment of his death". Then there was this very wholesome moment with all of them together in the sun, he rolled out in his bed and he had a speech. This is my translation of it: 
 
-"""Enos and the girls had completely forhot about the audience around them. Enos spoke and hit shaking voice was heard clearly over the whole courtyard. The girls were rapt and their 
+"""Enos and the girls had completely forgot about the audience around them. Enos spoke and hit shaking voice was heard clearly over the whole courtyard. The girls were rapt and their up-thwarted faces was sizzling from innocence and childish reverence. Judith swallowed and blinked away tears from her eyes. She forced herself to listen to Enos and noticed that he spoke about the creation, about the human beginning and bout the search after God. "God moved and the [[spirit]] become live. Through the movement arose light and thereafter [[chaos]]. IN this light came the creation "
 ## Synchronicities
 <!-- events that lined up -->
 
 ## Cross-References
-[[God]]
+[[God]][[Holy Spirit]]
 
 ## Next Actions
 <!-- ideas sparked -->
