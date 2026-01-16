@@ -25,7 +25,8 @@ One part in the story that had an impact on me, was when the person Enos, father
 
 -" In that [[form]] of matter, that we see, came the first projections from the animal kingdom; for the thought through bodies took gradually form and the different combinations called themself gods or rulers over herds, birds or fish - and they were partly very similar to the human of today. Their body size took many different forms, from dwargs to giants, for there was giants on earth in this time, upwards four meters tall and well built."
 
--"In the beginning, when matters was drenched in the holy spirit from the creation's influence, came then humans, in an environment that was made for living by the spirit with a soul, that could become one with the creating [[force]]. When matter was drenched in the spirit emerged from the fact that the soul, separate, had sinned and could only in the matter and flesh' environment showcase properties from the source of good. For the spirit of evil has not, will not be, manifested in matter; it has only been moved by, on or through matter. Just like the 
+-"In the beginning, when matters was drenched in the holy spirit from the creation's influence, came then humans, in an environment that was made for living by the spirit with a soul, that could become one with the creating [[force]]. When matter was drenched in the spirit emerged from the fact that the soul, separate, had sinned and could only in the matter and flesh' environment showcase properties from the source of good. For the spirit of evil has not, will not be, manifested in matter; it has only been moved by, on or through matter. Just like the process of time have moved itself through, and in matter, it has come to the human, to the limited [[brain]], to become conscious of the inhabitation of soul, spirit and body."
+-"
 ## Synchronicities
 <!-- events that lined up -->
 
