@@ -15,11 +15,12 @@ Given by my mom, written by Mary La Croix, based on Edgar Cayce's readings and t
 ## Overview
 The book mainly depicts the intricacies of teachings and living on the mountain village "Karmel". You get to know the people of note and impact in the communion and the different characters there in great detail. The main plot is about the welcomed, sought after, and vulnerable transition in age. The new age which was prophesied by the priests at Karmel to come with the messias, which of course would be Jesus/Joshua himself. 
 
+The hiarky in the group of practising priasts and teachlings where in clear form connected with what duties that was put upon them. Lowest were the newest members and was doing the more gruesome jobs. But I felt while reading that this structure hinted towards a deeper reason. Like they all was aware of the struggles and lessons to be learned for the lower members. Like they quietly let them go through it, but always there for moral support and there for questions if any arose. But at the same time not shielding them for the difficult. My first instinct was saying that that was a very wise and thoughtful way of letting them learn the soul freeing lessons that only can be experienced. Like patience and humbleness, even in the roughest of situations. My instinct said that this was the way to rise above inner 
 ## Synchronicities
 <!-- events that lined up -->
 
 ## Cross-References
-<!-- add related notes -->
+[[God]]
 
 ## Next Actions
 <!-- ideas sparked -->
