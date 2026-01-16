@@ -45,7 +45,9 @@ The tone of Enos voice weaved a magical net of peace. The breeze dies our and th
 
 Maria (Maria Jesus mom) shyly moved Enos's hand and her voice was as melodical as a silver watch in the clear morning air:
 "Is the soul, in its birth, conscious about the physical bodies destiny?"
--"God himself do not know what human will decide for itself to do with itself, otherwise He could have regretted that He had created the human! He gave humans free will, so that it decides itself what to do with its body! Human can bear with itself an ideal in the moment of birth that can determine the destiny. As soon as the humans start to ponder over their own free will, they think about it as a mean to do the opposite 
+-"God himself do not know what human will decide for itself to do with itself, otherwise He could have regretted that He had created the human! He gave humans free will, so that it decides itself what to do with its body! Human can bear with itself an ideal in the moment of birth that can determine the destiny. As soon as the humans start to ponder over their own free will, they think about it as a mean to do the opposite of Gods will, even though, in time they understand that only through following Gods will, they find the happiness. They do not understand the concept of serving God, because they considers it as a sacrifice of their free will. Only through suffering and loosing their illusions, in time, space and patience, will they come to the insight that their actual will is Gods will, as in practice is happiness and heaven."
+
+-"What have been given as the most true of all that ever have been written? God do not wish that any soul will be exiled! But the human often listen to this from its own mind, which can separate them from their creator! He has never wished any soul to become exile"
 ## Synchronicities
 <!-- events that lined up -->
 
