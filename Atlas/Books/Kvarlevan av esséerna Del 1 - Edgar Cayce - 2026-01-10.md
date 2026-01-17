@@ -57,7 +57,8 @@ Enos raised his face and pointed with a shaking and gnarly hand at the sea blue 
 -"We look out and see heavens and stars like the psalmist said: 'The heavens proclaims God honour and the firmament shows His creation, which day after day expresses its completeness from night to night shows its wisdom'."
 """
 
-
+## The tent in the desert
+Another event in the book was about Judith (Jesus first teacher) in the desert 
 
 ## Synchronicities
 <!-- events that lined up -->
