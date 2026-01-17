@@ -64,7 +64,7 @@ Another event in the book was about Judith (Jesus first teacher) in the desert i
 he said as he smiled. 
 -"Why are you here? It seemed like you where waiting for me."
 -"I am sent by the brotherhood to tell you about the pyramids and their origin, purpose and and what they will mean for future generations."
--"Of course you know about the history of the creation, how God created heaven and earth, and then developed plants and animals' kingdoms, long before humans arrival to earth. Soul created by spiritual beings, with particles from God himself, in his image and 
+-"Of course you know about the history of the creation, how God created heaven and earth, and then developed plants and animals' kingdoms, long before humans arrival to earth. Soul created by spiritual beings, with particles from God himself, in his image and equipped with free will. The souls considered the gradual development of life on earth and basked in the beauty and activity they saw taking place. Some souls where not satisfied with just observing, but wanted themselves to experience the art of being able to create. They started planning themselves in to the material world as 'thought patterns', into stones and trees and lived side by side in different mineral- and life forms, both animal and plant. Under a long time the souls had the ability to come and go as they wished through the earth's different kingdoms, but they were gradually so entangled in their experiments to physical sensations, that they forgot the ability and got trapped. They hardened to the form much like the current human, with a apperance
 
 ## Synchronicities
 <!-- events that lined up -->
