@@ -58,7 +58,13 @@ Enos raised his face and pointed with a shaking and gnarly hand at the sea blue 
 """
 
 ## The tent in the desert
-Another event in the book was about Judith (Jesus first teacher) in the desert in front of the pyramids in Egypt. As she stood there lost for words she heard a man suddenly speaking behind her "They are wonderful, are they not?". She had never seen him before, but he even knew her name and she got a feeling that he was known to her. "Peace be with you Judith, welcome to the inaugurated's meeting point" he said. He mystically implied about knowing her and hinting to visions/prophecies according to me. In the shadow of one pyramid they sat down in a tent, overwhelmingly decorated in all sorts of luxury
+Another event in the book was about Judith (Jesus first teacher) in the desert in front of the pyramids in Egypt. She was there too secretly travel to the greatest places of knowledge on in the world for scrolls of knowledge to the new library in the salt city, that they where building for Jesus to read and learn about when in proper age. As she stood there lost for words she heard a man suddenly speaking behind her "They are wonderful, are they not?". She had never seen him before, but he even knew her name and she got a feeling that he was known to her. "Peace be with you Judith, welcome to the inaugurated's meeting point" he said. He mystically implied about knowing her and hinting to visions/prophecies according to me. In the shadow of one pyramid they sat down in a tent, overwhelmingly decorated in all sorts of luxury. 
+-"Who are you?"
+-"My name is without importance, you would anyway not be able to pronounce it."
+he said as he smiled. 
+-"Why are you here? It seemed like you where waiting for me."
+-"I am sent by the brotherhood to tell you about the pyramids and their origin, purpose and and what they will mean for future generations."
+-"Of course you know about the history of the creation, how God created heaven and earth, and then developed plants and animals' kingdoms, long before humans arrival to earth. Soul created by spiritual beings, with particles from God himself, in his image and 
 
 ## Synchronicities
 <!-- events that lined up -->
