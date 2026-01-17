@@ -58,7 +58,7 @@ Enos raised his face and pointed with a shaking and gnarly hand at the sea blue 
 """
 
 ## The tent in the desert
-Another event in the book was about Judith (Jesus first teacher) in the desert 
+Another event in the book was about Judith (Jesus first teacher) in the desert in front of the pyramids in Egypt. As she stood there lost for words she heard a man suddenly speaking behind her "They are wonderful, are they not?". She had never seen him before, but he even knew her name and she got a feeling that he was known to her. "Peace be with you Judith, welcome to the inaugurated's meeting point" he said. He mystically implied about knowing her and hinting to visions/prophecies according to me. In the shadow of one pyramid they sat down in a tent, overwhelmingly decorated in all sorts of luxury
 
 ## Synchronicities
 <!-- events that lined up -->
