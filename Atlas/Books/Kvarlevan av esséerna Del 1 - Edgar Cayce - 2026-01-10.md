@@ -94,7 +94,7 @@ The Sphinx and the pyramid with the archive hall were built in the same way. The
 "That is right, the soul who is coming to be reincarnated through the virgin Maria is Amelius, or Adam, the Greatest of the Great, the leader of all souls. He comes voluntarily to the world, to conquer the world, so that all souls through his image can do the same and again become one with the creator. He comes as a light to the world and incarnates as the Bridge, Truth and the Light. He will be the First Onlyborn of the Father - The Creator."
 
 "Why are you telling me this?" she yelled.
-"Because you have incarnated in the purpose to educate Maria's Son about all that He must know to complete what He started in the beginning. You will be his teacher and guide. There are many of us in the brotherhood "
+"Because you have incarnated in the purpose to educate Maria's Son about all that He must know to complete what He started in the beginning. You will be his teacher and guide. There are many of us in the brotherhood, both this and in the spiritual kingdom, that will help you. We are always with you and when the time comes, you will send Him to us."
 
 ## Synchronicities
 <!-- events that lined up -->
