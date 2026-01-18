@@ -74,7 +74,7 @@ Under the first part of the troika's ruling, the priest Ra-Ta was employed with 
 
 "What happened to them?" Judith wondered.
 
-"Disintegrated, and in this sphere you can go in and some have already done it. These temples were built for the development of these inhuman mixes of half human and half animal, that were called sons of humans. The beauty temple had the purpose of training them in different occupations, especially art and music."
+"Disintegrated, and in this sphere you can go in and some have already done it. These temples were built for the development of these inhuman mixes of half human and half animal, that were called sons of humans. The beauty temple had the purpose of training them in different occupations, especially art and music. The temple of Sacrifice was used more as a hospital or medical ward, as it is called today. It was here that they began to purify themselves and their children  from appendages like claws, feathers, tails and similar things that differentiated them from human society. Many methods were used to perform these purifications. Surgery, medicines, diet, massages and different treatments. Vibrations from music and colours were used - song, dans, liturgical songs and of course deep meditation where the souls power emerged in function. There was also an intricate process of purification where they used the flames of the altar fire. This was a long process that took between 6 to 7 years and some"
 
 ## Synchronicities
 <!-- events that lined up -->
