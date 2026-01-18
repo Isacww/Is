@@ -82,7 +82,13 @@ The Sphinx and the pyramid with the archive hall were built in the same way. The
 
 "What happened with the sons and daughters of humans?"
 
-"They were annihilated by the flood of sins. The ones in Egypt that escaped the larger devastations, were at last cleansed. In some estranged and unknown lands on earth, you can find some remains from this race. Some w"
+"They were annihilated by the flood of sins. The ones in Egypt that escaped the larger devastations, were at last cleansed. In some estranged and unknown lands on earth, you can find some remains from this race. Some were very small, dwarg-like humanoids and some extremely large monkey-like giants and some of these holds themselves hidden even today, but just a few,"
+
+"How did it go for the sons of the Devil and where are they today?"
+"Everywhere! The world is swimming in them. Thanks to the sons of the Light, they are now incarnated in clean, human bodies, but you can still recognize them from their actions."
+
+"And Amelius?"
+"Anelius. It was for his sake that God introduced death in the world, as a mean to escape the world to the spiritual kingdom, to rest, contemplate and assess, before you went down again. Amelius have come a lot of times to the world. He was Adam, Melkisedek, Zend, Ur, Asaf, Jesua, Josef, Josua, and others. He comes for our sake. He will be the one that can bring the world, the earth, back to the source from which it can from. He will soon come again, in these days"
 
 ## Synchronicities
 <!-- events that lined up -->
