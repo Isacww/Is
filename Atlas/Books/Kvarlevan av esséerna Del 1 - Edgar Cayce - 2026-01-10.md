@@ -88,7 +88,13 @@ The Sphinx and the pyramid with the archive hall were built in the same way. The
 "Everywhere! The world is swimming in them. Thanks to the sons of the Light, they are now incarnated in clean, human bodies, but you can still recognize them from their actions."
 
 "And Amelius?"
-"Anelius. It was for his sake that God introduced death in the world, as a mean to escape the world to the spiritual kingdom, to rest, contemplate and assess, before you went down again. Amelius have come a lot of times to the world. He was Adam, Melkisedek, Zend, Ur, Asaf, Jesua, Josef, Josua, and others. He comes for our sake. He will be the one that can bring the world, the earth, back to the source from which it can from. He will soon come again, in these days"
+"Anelius. It was for his sake that God introduced death in the world, as a mean to escape the world to the spiritual kingdom, to rest, contemplate and assess, before you went down again. Amelius have come a lot of times to the world. He was Adam, Melkisedek, Zend, Ur, Asaf, Jesua, Josef, Josua, and others. He comes for our sake. He will be the one that can bring the world, the earth, back to the source from which it can from. He will soon come again, in these days, to finish what was started in the beginning."
+
+"Messias" Judith whispered.'
+"That is right, the soul who is coming to be reincarnated through the virgin Maria is Amelius, or Adam, the Greatest of the Great, the leader of all souls. He comes voluntarily to the world, to conquer the world, so that all souls through his image can do the same and again become one with the creator. He comes as a light to the world and incarnates as the Bridge, Truth and the Light. He will be the First Onlyborn of the Father - The Creator."
+
+"Why are you telling me this?" she yelled.
+"Because you have incarnated in the purpose to educate Maria's Son about all that He must know to complete what He started in the beginning. You will be his teacher and guide. There are many of us in the brotherhood "
 
 ## Synchronicities
 <!-- events that lined up -->
