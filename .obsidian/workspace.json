@@ -11,36 +11,17 @@
             "id": "ecb2f7b0b9d19d51",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "74b8942aa95aa3b6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "Journal/Thoughts/Ball-plank conversation with Chatgpt5.2 - 2026-01-27.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
-            }
-          },
-          {
-            "id": "8e4e279a57ec7bbe",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ball-plank conversation with Chatgpt5.2 - 2026-01-27"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,8 +184,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "74b8942aa95aa3b6",
+  "active": "ecb2f7b0b9d19d51",
   "lastOpenFiles": [
+    "Journal/Thoughts/Ball-plank conversation with Chatgpt5.2 - 2026-01-27.md",
     "Atlas/Books/Kvarlevan av esséerna Del 1 - Edgar Cayce - 2026-01-10.md",
     "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
     "aether.md",
@@ -238,7 +220,6 @@
     "wholeness.md",
     "spirituality.md",
     "God.md",
-    "Holy Ghost.md",
     "attachments/Pasted image 20251223182231.png",
     "attachments/Pasted image 20251223175219.png",
     "Atlas/Books/Mind and Body - the Holographic Modeland Psychology",
