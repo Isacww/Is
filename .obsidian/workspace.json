@@ -18,6 +18,18 @@
             }
           },
           {
+            "id": "74b8942aa95aa3b6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
+          },
+          {
             "id": "8e4e279a57ec7bbe",
             "type": "leaf",
             "state": {
@@ -27,7 +39,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -190,7 +203,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ecb2f7b0b9d19d51",
+  "active": "74b8942aa95aa3b6",
   "lastOpenFiles": [
     "Atlas/Books/Kvarlevan av esséerna Del 1 - Edgar Cayce - 2026-01-10.md",
     "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
