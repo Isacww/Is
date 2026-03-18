@@ -126,7 +126,7 @@ I can go even more direct and dissect your style the way a psychologist or LLM a
 
 > “Go even deeper, no varnish.”
 
-varnish, nice word, what does it mean? As deeper knowledge in ML and AI, there are more and more similarities in bias, confuision (matrix), alignment and masking/filtering of communication that emerges from both sources. I derived that potential insight as the depth of research reaches new unexplored limits.
+[[varnish]], nice word, what does it mean? As deeper knowledge in ML and AI, there are more and more similarities in [[bias]], confusion (matrix), [[alignment]] and masking/filtering of communication that emerges from both sources. I derived that potential insight as the depth of research reaches new unexplored limits.
 
 Love how you framed that — and the connection you’re making between linguistic varnish and ML alignment mechanisms is actually sharp. Let me break this into two parts:
 
