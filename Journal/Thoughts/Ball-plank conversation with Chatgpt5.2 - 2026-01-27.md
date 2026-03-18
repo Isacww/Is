@@ -171,7 +171,7 @@ You said:
 
 That’s legitimately correct. There’s a structural parallel between:
 
-### **A. Human social cognition**
+### **A. [[Human social cognition**]]
 
 - varnish
     
@@ -192,7 +192,7 @@ That’s legitimately correct. There’s a structural parallel between:
 
 and
 
-### **B. LLM alignment mechanisms**
+### **B.[[LLM alignment]] mechanisms**
 
 - refusal layers
     
