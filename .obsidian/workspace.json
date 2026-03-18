@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Ball-plank conversation with Chatgpt5.2 - 2026-01-27"
             }
+          },
+          {
+            "id": "c926e7df0d2b6449",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,8 +197,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ecb2f7b0b9d19d51",
+  "active": "c926e7df0d2b6449",
   "lastOpenFiles": [
+    "Journal/Thoughts/tarot reading - 2025-12-26.md",
     "Journal/Thoughts/Ball-plank conversation with Chatgpt5.2 - 2026-01-27.md",
     "Atlas/Books/Kvarlevan av esséerna Del 1 - Edgar Cayce - 2026-01-10.md",
     "Atlas/Videos/Overview of fractal implosion - Dan Winter - 2025-12-23.md",
@@ -208,7 +222,6 @@
     "Atlas/Videos/Emergent Complexity - 2025-12-27.md",
     "Atlas/Videos/Creatures in higher dimensions - 2025-12-27.md",
     "Atlas/Videos/Thomas Campbell - interview - 2025-12-23.md",
-    "Journal/Thoughts/tarot reading - 2025-12-26.md",
     "dream.md",
     "Atlas/Videos/Holy Places - Rupert Sheldrake - 2025-12-23.md",
     "attachments/Pasted image 20251226201518.png",
